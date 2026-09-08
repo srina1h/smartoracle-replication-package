@@ -1,0 +1,76 @@
+{
+  "session_id": "76bc5f26-181b-4679-9d97-94dfb9532445",
+  "test_id": "849ee43eefbec00b",
+  "start_time": "2025-10-02T10:22:08.150867",
+  "end_time": "2025-10-02T10:23:55.233621",
+  "final_decision": "SKIP",
+  "final_confidence": 1.0,
+  "final_rationale": "The observed discrepancies are due to the use of non-standard, engine-specific functions (`evalInWorker` and `gczeal`) that are not defined in the ECMA-262 specification. Engines correctly report `ReferenceError` for these undefined functions, and the variations in exit codes and error messages are expected for non-standard behavior.",
+  "steps": [
+    {
+      "timestamp": "2025-10-02T10:23:55.233147",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "spec",
+      "input_data": {
+        "top_k": 1,
+        "query": "evalInWorker"
+      },
+      "output_data": {},
+      "reasoning": null,
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-02T10:23:55.233280",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "spec",
+      "input_data": {
+        "top_k": 1,
+        "query": "gczeal"
+      },
+      "output_data": {
+        "hits": []
+      },
+      "reasoning": "{'hits': []}",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-02T10:23:55.233364",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "make_decision",
+      "input_data": {
+        "confidence": 1,
+        "rationale": "The observed discrepancies are due to the use of non-standard, engine-specific functions (`evalInWorker` and `gczeal`) that are not defined in the ECMA-262 specification. Engines correctly report `ReferenceError` for these undefined functions, and the variations in exit codes and error messages are expected for non-standard behavior.",
+        "decision": "SKIP"
+      },
+      "output_data": {
+        "decision": "SKIP",
+        "confidence": 1,
+        "rationale": "The observed discrepancies are due to the use of non-standard, engine-specific functions (`evalInWorker` and `gczeal`) that are not defined in the ECMA-262 specification. Engines correctly report `ReferenceError` for these undefined functions, and the variations in exit codes and error messages are expected for non-standard behavior."
+      },
+      "reasoning": "{'decision': 'SKIP', 'confidence': 1, 'rationale': 'The observed discrepancies are due to the use of non-standard, engine-specific functions (`evalInWorker` and `gczeal`) that are not defined in the ECMA-262 specification. Engines correctly report `ReferenceError` for these undefined functions, and the variations in exit codes and error messages are expected for non-standard behavior.'}",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-02T10:23:55.233478",
+      "step_type": "decision",
+      "agent_name": null,
+      "tool_name": null,
+      "input_data": null,
+      "output_data": null,
+      "reasoning": "The observed discrepancies are due to the use of non-standard, engine-specific functions (`evalInWorker` and `gczeal`) that are not defined in the ECMA-262 specification. Engines correctly report `ReferenceError` for these undefined functions, and the variations in exit codes and error messages are expected for non-standard behavior.",
+      "confidence": 1.0,
+      "duration_ms": null,
+      "error": null
+    }
+  ],
+  "total_duration_ms": 107082.754
+}

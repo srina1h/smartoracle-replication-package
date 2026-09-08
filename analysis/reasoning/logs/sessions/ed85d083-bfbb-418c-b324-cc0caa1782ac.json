@@ -1,0 +1,255 @@
+{
+  "session_id": "ed85d083-bfbb-418c-b324-cc0caa1782ac",
+  "test_id": "5163c5a43c3c2b07",
+  "start_time": "2025-10-19T19:39:40.373871",
+  "end_time": "2025-10-19T19:40:03.915147",
+  "final_decision": "UNKNOWN",
+  "final_confidence": 0.0,
+  "final_rationale": "Could not parse decision from response",
+  "steps": [
+    {
+      "timestamp": "2025-10-19T19:40:03.913119",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "transfer_to_agent",
+      "input_data": {
+        "agent_name": "spec_checker"
+      },
+      "output_data": {
+        "result": null
+      },
+      "reasoning": null,
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-19T19:40:03.913233",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "spec",
+      "input_data": {
+        "top_k": 3,
+        "query": "arguments object global scope"
+      },
+      "output_data": {},
+      "reasoning": null,
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-19T19:40:03.913293",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "spec",
+      "input_data": {
+        "query": "function declarations in blocks",
+        "top_k": 3
+      },
+      "output_data": {
+        "hits": [
+          {
+            "path": "spec_cache/ecma262.md",
+            "snippet": "ass=\"secnum\">4.4.11</span>\n            standard object](#sec-standard-object \"standard object\")\n        12. <span class=\"item-toggle-none\"></span>[<span class=\"secnum\">4.4.12</span>\n            built-in object](#sec-built-in-object \"built-in object\")\n        13. <span class=\"item-toggle-none\"></span>[<span class=\"secnum\">4.4.13</span>\n            undefined value](#sec-undefined-value \"undefined valu",
+            "score": 0.02373897691724491
+          }
+        ]
+      },
+      "reasoning": "{'hits': [{'path': 'spec_cache/ecma262.md', 'snippet': 'ass=\"secnum\">4.4.11</span>\\n            standard object](#sec-standard-object \"standard object\")\\n        12. <span class=\"item-toggle-none\"></span>[<span class=\"secnum\">4.4.12</span>\\n            built-in object](#sec-built-in-object \"built-in object\")\\n        13. <span class=\"item-toggle-none\"></span>[<span class=\"secnum\">4.4.13</span>\\n            undefined value](#sec-undefined-value \"undefined valu', 'score': 0.02373897691724491}]}",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-19T19:40:03.913363",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "spec",
+      "input_data": {
+        "query": "arguments object global environment",
+        "top_k": 1
+      },
+      "output_data": {},
+      "reasoning": null,
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-19T19:40:03.913491",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "spec",
+      "input_data": {
+        "top_k": 1,
+        "query": "function declaration in block environment record"
+      },
+      "output_data": {},
+      "reasoning": null,
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-19T19:40:03.913598",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "spec",
+      "input_data": {
+        "query": "CreateArgumentsObject",
+        "top_k": 1
+      },
+      "output_data": {
+        "hits": []
+      },
+      "reasoning": "{'hits': []}",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-19T19:40:03.913682",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "spec",
+      "input_data": {
+        "query": "arguments object global scope",
+        "top_k": 1
+      },
+      "output_data": {},
+      "reasoning": null,
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-19T19:40:03.913735",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "spec",
+      "input_data": {
+        "query": "global environment record",
+        "top_k": 1
+      },
+      "output_data": {},
+      "reasoning": null,
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-19T19:40:03.913789",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "spec",
+      "input_data": {
+        "top_k": 1,
+        "query": "function declarations in blocks"
+      },
+      "output_data": {},
+      "reasoning": null,
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-19T19:40:03.913841",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "spec",
+      "input_data": {
+        "query": "CreateArgumentsObject",
+        "top_k": 1
+      },
+      "output_data": {
+        "hits": []
+      },
+      "reasoning": "{'hits': []}",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-19T19:40:03.913907",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "spec",
+      "input_data": {
+        "query": "GlobalEnvironmentRecord HasBinding",
+        "top_k": 1
+      },
+      "output_data": {},
+      "reasoning": null,
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-19T19:40:03.913953",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "spec",
+      "input_data": {
+        "top_k": 1,
+        "query": "Global Environment Records"
+      },
+      "output_data": {},
+      "reasoning": null,
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-19T19:40:03.913997",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "spec",
+      "input_data": {
+        "query": "Arguments Exotic Objects",
+        "top_k": 1
+      },
+      "output_data": {},
+      "reasoning": null,
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-19T19:40:03.914042",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "spec",
+      "input_data": {
+        "top_k": 1,
+        "query": "GlobalDeclarationInstantiation"
+      },
+      "output_data": {
+        "hits": [
+          {
+            "path": "spec_cache/ecma262.md",
+            "snippet": "ptRecord`\n            )](#sec-runtime-semantics-scriptevaluation \"ScriptEvaluation ( scriptRecord )\")\n        7.  <span class=\"item-toggle-none\"></span>[<span class=\"secnum\">16.1.7</span>\n            GlobalDeclarationInstantiation ( `script`, `env`\n            )](#sec-globaldeclarationinstantiation \"GlobalDeclarationInstantiation ( script, env )\")\n    2.  <span class=\"item-toggle\">+</span>[<span class=\"secnum\">16.2</span>\n    ",
+            "score": 0.011869488458622455
+          }
+        ]
+      },
+      "reasoning": "{'hits': [{'path': 'spec_cache/ecma262.md', 'snippet': 'ptRecord`\\n            )](#sec-runtime-semantics-scriptevaluation \"ScriptEvaluation ( scriptRecord )\")\\n        7.  <span class=\"item-toggle-none\"></span>[<span class=\"secnum\">16.1.7</span>\\n            GlobalDeclarationInstantiation ( `script`, `env`\\n            )](#sec-globaldeclarationinstantiation \"GlobalDeclarationInstantiation ( script, env )\")\\n    2.  <span class=\"item-toggle\">+</span>[<span class=\"secnum\">16.2</span>\\n    ', 'score': 0.011869488458622455}]}",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-19T19:40:03.915031",
+      "step_type": "decision",
+      "agent_name": null,
+      "tool_name": null,
+      "input_data": null,
+      "output_data": null,
+      "reasoning": "Could not parse decision from response",
+      "confidence": 0.0,
+      "duration_ms": null,
+      "error": null
+    }
+  ],
+  "total_duration_ms": 23541.276
+}

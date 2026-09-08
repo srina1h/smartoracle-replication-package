@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.py[cod]
+analysis/reasoning/results/visualizations/
+analysis/reasoning/results/comprehensive_report.md
+analysis/clustering/results/root_cause_propagation_comparison.png
+analysis/clustering/results/root_cause_propagation_report.md

@@ -1,0 +1,4972 @@
+{
+  "2da988abfcee5f94": {
+    "label": "NO_BUG",
+    "test_id": "2da988abfcee5f94",
+    "pattern": "pattern_0_0_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_001"
+  },
+  "b39be6f165e3011a": {
+    "label": "BUG",
+    "test_id": "b39be6f165e3011a",
+    "pattern": "pattern_0_3_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_003"
+  },
+  "db4b30bedfbc282c": {
+    "label": "NO_BUG",
+    "test_id": "db4b30bedfbc282c",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_047"
+  },
+  "eef9252a1cb32129": {
+    "label": "NO_BUG",
+    "test_id": "eef9252a1cb32129",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_052"
+  },
+  "cf21ef1b932809a3": {
+    "label": "NO_BUG",
+    "test_id": "cf21ef1b932809a3",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_044"
+  },
+  "fd3e4fe58947ad8f": {
+    "label": "NO_BUG",
+    "test_id": "fd3e4fe58947ad8f",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_054"
+  },
+  "122b57f49224481b": {
+    "label": "NO_BUG",
+    "test_id": "122b57f49224481b",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_006"
+  },
+  "08e3825dbdd920e5": {
+    "label": "NO_BUG",
+    "test_id": "08e3825dbdd920e5",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_003"
+  },
+  "2f542191e493fb65": {
+    "label": "NO_BUG",
+    "test_id": "2f542191e493fb65",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_012"
+  },
+  "bed4fd96a81d5e81": {
+    "label": "NO_BUG",
+    "test_id": "bed4fd96a81d5e81",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_041"
+  },
+  "e05511b980b5d15b": {
+    "label": "NO_BUG",
+    "test_id": "e05511b980b5d15b",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_048"
+  },
+  "fcbde684c52952ac": {
+    "label": "NO_BUG",
+    "test_id": "fcbde684c52952ac",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_053"
+  },
+  "813346f2ed934acf": {
+    "label": "NO_BUG",
+    "test_id": "813346f2ed934acf",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_027"
+  },
+  "143c44029d382d95": {
+    "label": "NO_BUG",
+    "test_id": "143c44029d382d95",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_007"
+  },
+  "37c64cf95e1000e6": {
+    "label": "NO_BUG",
+    "test_id": "37c64cf95e1000e6",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_015"
+  },
+  "d48beb4feb70edc4": {
+    "label": "NO_BUG",
+    "test_id": "d48beb4feb70edc4",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_045"
+  },
+  "1a1c0eb997056abe": {
+    "label": "NO_BUG",
+    "test_id": "1a1c0eb997056abe",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_008"
+  },
+  "8d9d84360dbdcac5": {
+    "label": "BUG",
+    "test_id": "8d9d84360dbdcac5",
+    "pattern": "pattern_0_3_3_1",
+    "cluster": "cluster_01",
+    "case_id": "case_002"
+  },
+  "b82f727015da6e16": {
+    "label": "NO_BUG",
+    "test_id": "b82f727015da6e16",
+    "pattern": "pattern_1_0_1_1",
+    "cluster": "cluster_01",
+    "case_id": "case_001"
+  },
+  "ff7cbed98cf5f449": {
+    "label": "BUG",
+    "test_id": "ff7cbed98cf5f449",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_358"
+  },
+  "ca304971698f26c2": {
+    "label": "BUG",
+    "test_id": "ca304971698f26c2",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_279"
+  },
+  "05afe8c7d399869b": {
+    "label": "BUG",
+    "test_id": "05afe8c7d399869b",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_010"
+  },
+  "9a6d3f13babc2bbd": {
+    "label": "BUG",
+    "test_id": "9a6d3f13babc2bbd",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_231"
+  },
+  "2a86f8fdc69db5c6": {
+    "label": "BUG",
+    "test_id": "2a86f8fdc69db5c6",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_063"
+  },
+  "f8c2ef5f316e9a51": {
+    "label": "BUG",
+    "test_id": "f8c2ef5f316e9a51",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_345"
+  },
+  "4177e96a12c5cdd8": {
+    "label": "BUG",
+    "test_id": "4177e96a12c5cdd8",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_098"
+  },
+  "920615e6c84fec46": {
+    "label": "BUG",
+    "test_id": "920615e6c84fec46",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_220"
+  },
+  "0a8e6119ad0040c6": {
+    "label": "BUG",
+    "test_id": "0a8e6119ad0040c6",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_016"
+  },
+  "94feec8b66d89f00": {
+    "label": "BUG",
+    "test_id": "94feec8b66d89f00",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_223"
+  },
+  "b4e1d750181577a8": {
+    "label": "BUG",
+    "test_id": "b4e1d750181577a8",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_254"
+  },
+  "eeb781202185fa47": {
+    "label": "BUG",
+    "test_id": "eeb781202185fa47",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_331"
+  },
+  "658779dda46c6559": {
+    "label": "BUG",
+    "test_id": "658779dda46c6559",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_153"
+  },
+  "cf53e8233b2aaf9f": {
+    "label": "BUG",
+    "test_id": "cf53e8233b2aaf9f",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_284"
+  },
+  "2094f8b921115046": {
+    "label": "BUG",
+    "test_id": "2094f8b921115046",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_047"
+  },
+  "bbc9d2e1955d35ae": {
+    "label": "BUG",
+    "test_id": "bbc9d2e1955d35ae",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_261"
+  },
+  "f8d7b9d66af6442d": {
+    "label": "BUG",
+    "test_id": "f8d7b9d66af6442d",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_346"
+  },
+  "103002394433f647": {
+    "label": "BUG",
+    "test_id": "103002394433f647",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_028"
+  },
+  "9e8b5f3bb0a86705": {
+    "label": "BUG",
+    "test_id": "9e8b5f3bb0a86705",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_235"
+  },
+  "55bf3c05bc567937": {
+    "label": "BUG",
+    "test_id": "55bf3c05bc567937",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_132"
+  },
+  "46ec66b6cbdb12f6": {
+    "label": "BUG",
+    "test_id": "46ec66b6cbdb12f6",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_109"
+  },
+  "f63cfd2895dd17af": {
+    "label": "BUG",
+    "test_id": "f63cfd2895dd17af",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_342"
+  },
+  "7bf09289ff4a424c": {
+    "label": "BUG",
+    "test_id": "7bf09289ff4a424c",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_186"
+  },
+  "ee2b009722f69037": {
+    "label": "BUG",
+    "test_id": "ee2b009722f69037",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_330"
+  },
+  "0ee55b194b4da074": {
+    "label": "BUG",
+    "test_id": "0ee55b194b4da074",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_025"
+  },
+  "72f77a9b520000b5": {
+    "label": "BUG",
+    "test_id": "72f77a9b520000b5",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_173"
+  },
+  "f0d290aa4bf96f94": {
+    "label": "BUG",
+    "test_id": "f0d290aa4bf96f94",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_336"
+  },
+  "6ad602242fe6734d": {
+    "label": "BUG",
+    "test_id": "6ad602242fe6734d",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_160"
+  },
+  "9b1cc375358f1db7": {
+    "label": "BUG",
+    "test_id": "9b1cc375358f1db7",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_232"
+  },
+  "ec4d5d108c10d92e": {
+    "label": "BUG",
+    "test_id": "ec4d5d108c10d92e",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_329"
+  },
+  "4d09e90a4e69a091": {
+    "label": "BUG",
+    "test_id": "4d09e90a4e69a091",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_117"
+  },
+  "4466ac8ef6c859e5": {
+    "label": "BUG",
+    "test_id": "4466ac8ef6c859e5",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_104"
+  },
+  "b0f6844ffef87cd7": {
+    "label": "BUG",
+    "test_id": "b0f6844ffef87cd7",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_249"
+  },
+  "0221f14b8adc507d": {
+    "label": "BUG",
+    "test_id": "0221f14b8adc507d",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_006"
+  },
+  "53943bcb8816e76a": {
+    "label": "BUG",
+    "test_id": "53943bcb8816e76a",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_129"
+  },
+  "fe3ae862145972b7": {
+    "label": "BUG",
+    "test_id": "fe3ae862145972b7",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_355"
+  },
+  "2b57e95bac057bf6": {
+    "label": "BUG",
+    "test_id": "2b57e95bac057bf6",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_065"
+  },
+  "17231515478ea6f2": {
+    "label": "BUG",
+    "test_id": "17231515478ea6f2",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_034"
+  },
+  "4853e2d9e81400ce": {
+    "label": "BUG",
+    "test_id": "4853e2d9e81400ce",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_111"
+  },
+  "0bebc3227dbf60d1": {
+    "label": "BUG",
+    "test_id": "0bebc3227dbf60d1",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_018"
+  },
+  "fd74541ce9c67464": {
+    "label": "BUG",
+    "test_id": "fd74541ce9c67464",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_354"
+  },
+  "465e93332f3869b0": {
+    "label": "BUG",
+    "test_id": "465e93332f3869b0",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_106"
+  },
+  "5a5749126a71cdad": {
+    "label": "BUG",
+    "test_id": "5a5749126a71cdad",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_138"
+  },
+  "e39efe66aeb122df": {
+    "label": "BUG",
+    "test_id": "e39efe66aeb122df",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_315"
+  },
+  "5ebe54a872e40815": {
+    "label": "BUG",
+    "test_id": "5ebe54a872e40815",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_143"
+  },
+  "0c97042ac03494d1": {
+    "label": "BUG",
+    "test_id": "0c97042ac03494d1",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_020"
+  },
+  "a439225479e3348a": {
+    "label": "BUG",
+    "test_id": "a439225479e3348a",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_242"
+  },
+  "b9622c8d24369c9e": {
+    "label": "BUG",
+    "test_id": "b9622c8d24369c9e",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_260"
+  },
+  "d272449116433b23": {
+    "label": "BUG",
+    "test_id": "d272449116433b23",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_290"
+  },
+  "c04df3e3bee9ed2b": {
+    "label": "BUG",
+    "test_id": "c04df3e3bee9ed2b",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_265"
+  },
+  "c905f9503b35d991": {
+    "label": "BUG",
+    "test_id": "c905f9503b35d991",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_277"
+  },
+  "127a474a5007fa5e": {
+    "label": "BUG",
+    "test_id": "127a474a5007fa5e",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_030"
+  },
+  "05f1248a4031811a": {
+    "label": "BUG",
+    "test_id": "05f1248a4031811a",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_011"
+  },
+  "622ed769343036ae": {
+    "label": "BUG",
+    "test_id": "622ed769343036ae",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_148"
+  },
+  "1d25f2e004f8e774": {
+    "label": "BUG",
+    "test_id": "1d25f2e004f8e774",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_041"
+  },
+  "8cedf5e2a3159488": {
+    "label": "BUG",
+    "test_id": "8cedf5e2a3159488",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_211"
+  },
+  "adecdcc07f155023": {
+    "label": "BUG",
+    "test_id": "adecdcc07f155023",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_244"
+  },
+  "f93263a0099d9817": {
+    "label": "BUG",
+    "test_id": "f93263a0099d9817",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_347"
+  },
+  "95231b6ee64bf073": {
+    "label": "BUG",
+    "test_id": "95231b6ee64bf073",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_225"
+  },
+  "86ec26471fd9b5c1": {
+    "label": "BUG",
+    "test_id": "86ec26471fd9b5c1",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_203"
+  },
+  "c26f9e07c802b812": {
+    "label": "BUG",
+    "test_id": "c26f9e07c802b812",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_269"
+  },
+  "ff568f1d6f6fa522": {
+    "label": "BUG",
+    "test_id": "ff568f1d6f6fa522",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_357"
+  },
+  "9049ad77c8fc48a5": {
+    "label": "BUG",
+    "test_id": "9049ad77c8fc48a5",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_217"
+  },
+  "c5b4760119faec24": {
+    "label": "BUG",
+    "test_id": "c5b4760119faec24",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_273"
+  },
+  "a0017f9dfddd2bc4": {
+    "label": "BUG",
+    "test_id": "a0017f9dfddd2bc4",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_237"
+  },
+  "5b13f8af782a6757": {
+    "label": "BUG",
+    "test_id": "5b13f8af782a6757",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_139"
+  },
+  "c2a13a58da9debb4": {
+    "label": "BUG",
+    "test_id": "c2a13a58da9debb4",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_270"
+  },
+  "6ac9fb422f3ce32f": {
+    "label": "BUG",
+    "test_id": "6ac9fb422f3ce32f",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_158"
+  },
+  "e9882a6a99205a73": {
+    "label": "BUG",
+    "test_id": "e9882a6a99205a73",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_322"
+  },
+  "164186a4404125ee": {
+    "label": "BUG",
+    "test_id": "164186a4404125ee",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_033"
+  },
+  "d45ab7995efa9c28": {
+    "label": "BUG",
+    "test_id": "d45ab7995efa9c28",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_296"
+  },
+  "509a37e3f4c5b2a2": {
+    "label": "BUG",
+    "test_id": "509a37e3f4c5b2a2",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_124"
+  },
+  "89d32740044774f9": {
+    "label": "BUG",
+    "test_id": "89d32740044774f9",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_207"
+  },
+  "58e3b6b3552a0fb5": {
+    "label": "BUG",
+    "test_id": "58e3b6b3552a0fb5",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_135"
+  },
+  "81e434f7fbc14027": {
+    "label": "BUG",
+    "test_id": "81e434f7fbc14027",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_196"
+  },
+  "6ffcb2ccba83aea1": {
+    "label": "BUG",
+    "test_id": "6ffcb2ccba83aea1",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_166"
+  },
+  "36efb5891388b574": {
+    "label": "BUG",
+    "test_id": "36efb5891388b574",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_082"
+  },
+  "e943130bada1fb70": {
+    "label": "BUG",
+    "test_id": "e943130bada1fb70",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_321"
+  },
+  "c89a08f9e5b34052": {
+    "label": "BUG",
+    "test_id": "c89a08f9e5b34052",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_275"
+  },
+  "0f46e3a9f88397c4": {
+    "label": "BUG",
+    "test_id": "0f46e3a9f88397c4",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_026"
+  },
+  "d9a5e5fee0a089dd": {
+    "label": "BUG",
+    "test_id": "d9a5e5fee0a089dd",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_300"
+  },
+  "052357a84dd64cf7": {
+    "label": "BUG",
+    "test_id": "052357a84dd64cf7",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_009"
+  },
+  "eafce164568d3b24": {
+    "label": "BUG",
+    "test_id": "eafce164568d3b24",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_325"
+  },
+  "382beb5e00f803ef": {
+    "label": "BUG",
+    "test_id": "382beb5e00f803ef",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_087"
+  },
+  "4e2d96aafa648e06": {
+    "label": "BUG",
+    "test_id": "4e2d96aafa648e06",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_120"
+  },
+  "eeffb15326b4ee86": {
+    "label": "BUG",
+    "test_id": "eeffb15326b4ee86",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_332"
+  },
+  "d308ee52b88e1efa": {
+    "label": "BUG",
+    "test_id": "d308ee52b88e1efa",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_291"
+  },
+  "a0959d89e7c7efe1": {
+    "label": "BUG",
+    "test_id": "a0959d89e7c7efe1",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_238"
+  },
+  "4d0bfd997ce90bf2": {
+    "label": "BUG",
+    "test_id": "4d0bfd997ce90bf2",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_118"
+  },
+  "6d33f2a13e49a2a3": {
+    "label": "BUG",
+    "test_id": "6d33f2a13e49a2a3",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_162"
+  },
+  "e989329238e6a8af": {
+    "label": "BUG",
+    "test_id": "e989329238e6a8af",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_323"
+  },
+  "2a6b8b0cbf3cbdf0": {
+    "label": "BUG",
+    "test_id": "2a6b8b0cbf3cbdf0",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_062"
+  },
+  "2f10d7baeb194c3a": {
+    "label": "BUG",
+    "test_id": "2f10d7baeb194c3a",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_071"
+  },
+  "d961e9f7f5da01ec": {
+    "label": "BUG",
+    "test_id": "d961e9f7f5da01ec",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_299"
+  },
+  "722caae05582cac0": {
+    "label": "BUG",
+    "test_id": "722caae05582cac0",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_172"
+  },
+  "2b85158049074591": {
+    "label": "BUG",
+    "test_id": "2b85158049074591",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_066"
+  },
+  "9a60969c0a5475ff": {
+    "label": "BUG",
+    "test_id": "9a60969c0a5475ff",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_299"
+  },
+  "019f03c61775130b": {
+    "label": "BUG",
+    "test_id": "019f03c61775130b",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_005"
+  },
+  "bf04b507f8acfbb9": {
+    "label": "BUG",
+    "test_id": "bf04b507f8acfbb9",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_347"
+  },
+  "fa92e1aa00b62153": {
+    "label": "BUG",
+    "test_id": "fa92e1aa00b62153",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_454"
+  },
+  "6eba3c4f836fc6fb": {
+    "label": "BUG",
+    "test_id": "6eba3c4f836fc6fb",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_215"
+  },
+  "d396259ca6f7c1f4": {
+    "label": "BUG",
+    "test_id": "d396259ca6f7c1f4",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_385"
+  },
+  "70b1a012be9718bf": {
+    "label": "BUG",
+    "test_id": "70b1a012be9718bf",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_219"
+  },
+  "22b4775330e6d13c": {
+    "label": "BUG",
+    "test_id": "22b4775330e6d13c",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_078"
+  },
+  "ba3b897cc0b60fc9": {
+    "label": "BUG",
+    "test_id": "ba3b897cc0b60fc9",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_340"
+  },
+  "6a5a0f85177f7054": {
+    "label": "BUG",
+    "test_id": "6a5a0f85177f7054",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_203"
+  },
+  "e52ec8351a12f540": {
+    "label": "BUG",
+    "test_id": "e52ec8351a12f540",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_417"
+  },
+  "6977fd4d1b8da038": {
+    "label": "BUG",
+    "test_id": "6977fd4d1b8da038",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_202"
+  },
+  "3ee16cd13d8038cd": {
+    "label": "BUG",
+    "test_id": "3ee16cd13d8038cd",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_126"
+  },
+  "7261e46769e4c53a": {
+    "label": "BUG",
+    "test_id": "7261e46769e4c53a",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_224"
+  },
+  "873e1f2496991db4": {
+    "label": "BUG",
+    "test_id": "873e1f2496991db4",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_261"
+  },
+  "61d5d0a17245431e": {
+    "label": "BUG",
+    "test_id": "61d5d0a17245431e",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_182"
+  },
+  "dd96d1f27e109da6": {
+    "label": "BUG",
+    "test_id": "dd96d1f27e109da6",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_402"
+  },
+  "66f0c240b802af37": {
+    "label": "BUG",
+    "test_id": "66f0c240b802af37",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_198"
+  },
+  "6e00eeddb3f6f0a0": {
+    "label": "BUG",
+    "test_id": "6e00eeddb3f6f0a0",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_211"
+  },
+  "16f3e6d1c76f4ff8": {
+    "label": "BUG",
+    "test_id": "16f3e6d1c76f4ff8",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_058"
+  },
+  "bfd50e929c724299": {
+    "label": "BUG",
+    "test_id": "bfd50e929c724299",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_350"
+  },
+  "cd523fef72a608e2": {
+    "label": "BUG",
+    "test_id": "cd523fef72a608e2",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_371"
+  },
+  "43be12a6c0c89bc5": {
+    "label": "BUG",
+    "test_id": "43be12a6c0c89bc5",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_137"
+  },
+  "094d30d9c64c1a09": {
+    "label": "BUG",
+    "test_id": "094d30d9c64c1a09",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_022"
+  },
+  "de564a2d5e684a47": {
+    "label": "BUG",
+    "test_id": "de564a2d5e684a47",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_403"
+  },
+  "6e40b19ddf971c0d": {
+    "label": "BUG",
+    "test_id": "6e40b19ddf971c0d",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_214"
+  },
+  "20554867345dec4c": {
+    "label": "BUG",
+    "test_id": "20554867345dec4c",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_074"
+  },
+  "30abe83386820548": {
+    "label": "BUG",
+    "test_id": "30abe83386820548",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_099"
+  },
+  "3cfd834de3e56169": {
+    "label": "BUG",
+    "test_id": "3cfd834de3e56169",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_120"
+  },
+  "4817fc787436c103": {
+    "label": "BUG",
+    "test_id": "4817fc787436c103",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_145"
+  },
+  "41bd9c3d3c4ad69d": {
+    "label": "BUG",
+    "test_id": "41bd9c3d3c4ad69d",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_134"
+  },
+  "c5c9e670891fc292": {
+    "label": "BUG",
+    "test_id": "c5c9e670891fc292",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_360"
+  },
+  "e46e81225fc67b05": {
+    "label": "BUG",
+    "test_id": "e46e81225fc67b05",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_414"
+  },
+  "19a12839c826d25f": {
+    "label": "BUG",
+    "test_id": "19a12839c826d25f",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_062"
+  },
+  "cfbf18a47bc1453c": {
+    "label": "BUG",
+    "test_id": "cfbf18a47bc1453c",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_379"
+  },
+  "1c0d59a75c5b1be1": {
+    "label": "BUG",
+    "test_id": "1c0d59a75c5b1be1",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_068"
+  },
+  "4db20427c956fb92": {
+    "label": "BUG",
+    "test_id": "4db20427c956fb92",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_152"
+  },
+  "fdc6412e24301bf0": {
+    "label": "BUG",
+    "test_id": "fdc6412e24301bf0",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_458"
+  },
+  "f1db47c8ab71a1b8": {
+    "label": "BUG",
+    "test_id": "f1db47c8ab71a1b8",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_441"
+  },
+  "5130abf719736090": {
+    "label": "BUG",
+    "test_id": "5130abf719736090",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_156"
+  },
+  "95df8acc1afc5b2f": {
+    "label": "BUG",
+    "test_id": "95df8acc1afc5b2f",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_296"
+  },
+  "c6c22ce2b925fca1": {
+    "label": "BUG",
+    "test_id": "c6c22ce2b925fca1",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_361"
+  },
+  "8d7f06de3cc463d2": {
+    "label": "BUG",
+    "test_id": "8d7f06de3cc463d2",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_278"
+  },
+  "a838a6f073302d7b": {
+    "label": "BUG",
+    "test_id": "a838a6f073302d7b",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_320"
+  },
+  "9f7cc1f5a7a4a8ba": {
+    "label": "BUG",
+    "test_id": "9f7cc1f5a7a4a8ba",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_310"
+  },
+  "2b6d6b17fa868c0e": {
+    "label": "BUG",
+    "test_id": "2b6d6b17fa868c0e",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_091"
+  },
+  "158e0967e64bcd60": {
+    "label": "BUG",
+    "test_id": "158e0967e64bcd60",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_052"
+  },
+  "7355f5b0bca854ad": {
+    "label": "BUG",
+    "test_id": "7355f5b0bca854ad",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_227"
+  },
+  "4cc5a6890f26e1bb": {
+    "label": "BUG",
+    "test_id": "4cc5a6890f26e1bb",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_149"
+  },
+  "13a1e24769e1ead2": {
+    "label": "BUG",
+    "test_id": "13a1e24769e1ead2",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_045"
+  },
+  "1c69a8315a3175c4": {
+    "label": "BUG",
+    "test_id": "1c69a8315a3175c4",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_069"
+  },
+  "ba53175ada87d3de": {
+    "label": "BUG",
+    "test_id": "ba53175ada87d3de",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_341"
+  },
+  "62395d6d3286899c": {
+    "label": "BUG",
+    "test_id": "62395d6d3286899c",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_184"
+  },
+  "e41c3dea0a61b1f6": {
+    "label": "BUG",
+    "test_id": "e41c3dea0a61b1f6",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_412"
+  },
+  "ffdbd6dc812ec0e1": {
+    "label": "BUG",
+    "test_id": "ffdbd6dc812ec0e1",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_462"
+  },
+  "d9f01544d5e4f948": {
+    "label": "BUG",
+    "test_id": "d9f01544d5e4f948",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_391"
+  },
+  "fa762e56149a86c0": {
+    "label": "BUG",
+    "test_id": "fa762e56149a86c0",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_453"
+  },
+  "6a9df1b9847d12fb": {
+    "label": "BUG",
+    "test_id": "6a9df1b9847d12fb",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_205"
+  },
+  "f43fe887cb8896d4": {
+    "label": "BUG",
+    "test_id": "f43fe887cb8896d4",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_444"
+  },
+  "45f3f8e4a4d08168": {
+    "label": "BUG",
+    "test_id": "45f3f8e4a4d08168",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_141"
+  },
+  "a2bbe0cbf2d9cd53": {
+    "label": "BUG",
+    "test_id": "a2bbe0cbf2d9cd53",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_313"
+  },
+  "aed5737ea241bba5": {
+    "label": "BUG",
+    "test_id": "aed5737ea241bba5",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_329"
+  },
+  "3353b61ef3b7a0de": {
+    "label": "BUG",
+    "test_id": "3353b61ef3b7a0de",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_105"
+  },
+  "71c17278d9f06973": {
+    "label": "BUG",
+    "test_id": "71c17278d9f06973",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_223"
+  },
+  "5f0a137dfd47dfa6": {
+    "label": "BUG",
+    "test_id": "5f0a137dfd47dfa6",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_174"
+  },
+  "0f1b71c385421252": {
+    "label": "BUG",
+    "test_id": "0f1b71c385421252",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_038"
+  },
+  "43804f120d976bc6": {
+    "label": "BUG",
+    "test_id": "43804f120d976bc6",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_135"
+  },
+  "0c4b960869f126d1": {
+    "label": "BUG",
+    "test_id": "0c4b960869f126d1",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_030"
+  },
+  "8ce952b0d10cd262": {
+    "label": "BUG",
+    "test_id": "8ce952b0d10cd262",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_276"
+  },
+  "fa6c6899a91b0d61": {
+    "label": "BUG",
+    "test_id": "fa6c6899a91b0d61",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_452"
+  },
+  "c527ca6a3138cb23": {
+    "label": "BUG",
+    "test_id": "c527ca6a3138cb23",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_359"
+  },
+  "c4698f7353f5acee": {
+    "label": "BUG",
+    "test_id": "c4698f7353f5acee",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_358"
+  },
+  "15b41668ba3aa796": {
+    "label": "BUG",
+    "test_id": "15b41668ba3aa796",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_053"
+  },
+  "2ed7eea3ff778405": {
+    "label": "BUG",
+    "test_id": "2ed7eea3ff778405",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_096"
+  },
+  "3a7432159dcebc79": {
+    "label": "BUG",
+    "test_id": "3a7432159dcebc79",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_114"
+  },
+  "86f6663b62b9991f": {
+    "label": "BUG",
+    "test_id": "86f6663b62b9991f",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_260"
+  },
+  "f266575f7746c776": {
+    "label": "BUG",
+    "test_id": "f266575f7746c776",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_442"
+  },
+  "004b4089707248ff": {
+    "label": "BUG",
+    "test_id": "004b4089707248ff",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_001"
+  },
+  "d2ca58dca860baa5": {
+    "label": "BUG",
+    "test_id": "d2ca58dca860baa5",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_384"
+  },
+  "83b939cd59d7832b": {
+    "label": "BUG",
+    "test_id": "83b939cd59d7832b",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_251"
+  },
+  "7ff8cd433018e369": {
+    "label": "BUG",
+    "test_id": "7ff8cd433018e369",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_244"
+  },
+  "9d09d9cc2881a034": {
+    "label": "BUG",
+    "test_id": "9d09d9cc2881a034",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_303"
+  },
+  "b011aece0e75ae76": {
+    "label": "BUG",
+    "test_id": "b011aece0e75ae76",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_331"
+  },
+  "315e858ddab63648": {
+    "label": "BUG",
+    "test_id": "315e858ddab63648",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_101"
+  },
+  "5534f80e72598caa": {
+    "label": "BUG",
+    "test_id": "5534f80e72598caa",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_162"
+  },
+  "100855bd7920c384": {
+    "label": "BUG",
+    "test_id": "100855bd7920c384",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_039"
+  },
+  "6394879ee30005ed": {
+    "label": "BUG",
+    "test_id": "6394879ee30005ed",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_190"
+  },
+  "129203cc26d20b85": {
+    "label": "BUG",
+    "test_id": "129203cc26d20b85",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_042"
+  },
+  "c7eb7049cf73ba89": {
+    "label": "BUG",
+    "test_id": "c7eb7049cf73ba89",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_363"
+  },
+  "7b6a11f7ad9685a6": {
+    "label": "BUG",
+    "test_id": "7b6a11f7ad9685a6",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_241"
+  },
+  "ba19174c49b1e446": {
+    "label": "BUG",
+    "test_id": "ba19174c49b1e446",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_339"
+  },
+  "279a10f9e4ddd8f9": {
+    "label": "BUG",
+    "test_id": "279a10f9e4ddd8f9",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_084"
+  },
+  "888d398ac75ad930": {
+    "label": "BUG",
+    "test_id": "888d398ac75ad930",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_266"
+  },
+  "d01506f021b427ec": {
+    "label": "BUG",
+    "test_id": "d01506f021b427ec",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_380"
+  },
+  "405ed473e45c2c80": {
+    "label": "BUG",
+    "test_id": "405ed473e45c2c80",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_130"
+  },
+  "8084d395b2de47d2": {
+    "label": "BUG",
+    "test_id": "8084d395b2de47d2",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_245"
+  },
+  "38161b9367529d11": {
+    "label": "BUG",
+    "test_id": "38161b9367529d11",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_112"
+  },
+  "18fcb10f90ea5ed0": {
+    "label": "BUG",
+    "test_id": "18fcb10f90ea5ed0",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_060"
+  },
+  "0a3045851cf474e6": {
+    "label": "BUG",
+    "test_id": "0a3045851cf474e6",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_026"
+  },
+  "bd8d7fc7bc7e4bd3": {
+    "label": "BUG",
+    "test_id": "bd8d7fc7bc7e4bd3",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_343"
+  },
+  "9bb82a7b9a12707f": {
+    "label": "BUG",
+    "test_id": "9bb82a7b9a12707f",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_301"
+  },
+  "df9593084e14f20c": {
+    "label": "BUG",
+    "test_id": "df9593084e14f20c",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_406"
+  },
+  "49d9efd4f989564a": {
+    "label": "BUG",
+    "test_id": "49d9efd4f989564a",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_146"
+  },
+  "6006d8e7459794c7": {
+    "label": "BUG",
+    "test_id": "6006d8e7459794c7",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_176"
+  },
+  "531bea6fa6f726ef": {
+    "label": "BUG",
+    "test_id": "531bea6fa6f726ef",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_158"
+  },
+  "5c28abf5a43db2d2": {
+    "label": "BUG",
+    "test_id": "5c28abf5a43db2d2",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_170"
+  },
+  "62a9325fe87e9401": {
+    "label": "BUG",
+    "test_id": "62a9325fe87e9401",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_185"
+  },
+  "ea4dd737082f5864": {
+    "label": "BUG",
+    "test_id": "ea4dd737082f5864",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_427"
+  },
+  "d1901da57bfa9b24": {
+    "label": "BUG",
+    "test_id": "d1901da57bfa9b24",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_383"
+  },
+  "8f4a6f1aeb0aeabf": {
+    "label": "BUG",
+    "test_id": "8f4a6f1aeb0aeabf",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_284"
+  },
+  "4e87af86f545f032": {
+    "label": "BUG",
+    "test_id": "4e87af86f545f032",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_154"
+  },
+  "34ffc942009583f8": {
+    "label": "BUG",
+    "test_id": "34ffc942009583f8",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_110"
+  },
+  "bfc3a207e3a25b50": {
+    "label": "BUG",
+    "test_id": "bfc3a207e3a25b50",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_349"
+  },
+  "0db2964a2546ec13": {
+    "label": "BUG",
+    "test_id": "0db2964a2546ec13",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_032"
+  },
+  "3afb8e4cb3518f8c": {
+    "label": "BUG",
+    "test_id": "3afb8e4cb3518f8c",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_115"
+  },
+  "334a1da14a901b20": {
+    "label": "BUG",
+    "test_id": "334a1da14a901b20",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_104"
+  },
+  "8757e8c71bbe0fe5": {
+    "label": "BUG",
+    "test_id": "8757e8c71bbe0fe5",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_262"
+  },
+  "613f88d0669b3d4a": {
+    "label": "BUG",
+    "test_id": "613f88d0669b3d4a",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_180"
+  },
+  "2d806e96c60a2a30": {
+    "label": "BUG",
+    "test_id": "2d806e96c60a2a30",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_092"
+  },
+  "35abfa41b58dfdf0": {
+    "label": "BUG",
+    "test_id": "35abfa41b58dfdf0",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_111"
+  },
+  "091950525eb6a943": {
+    "label": "BUG",
+    "test_id": "091950525eb6a943",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_020"
+  },
+  "9434f6a72f7e85fd": {
+    "label": "BUG",
+    "test_id": "9434f6a72f7e85fd",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_292"
+  },
+  "3f7d791a5d59df83": {
+    "label": "BUG",
+    "test_id": "3f7d791a5d59df83",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_129"
+  },
+  "9340e444be2d7c52": {
+    "label": "BUG",
+    "test_id": "9340e444be2d7c52",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_290"
+  },
+  "20ce2e2e285dd8e8": {
+    "label": "BUG",
+    "test_id": "20ce2e2e285dd8e8",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_006"
+  },
+  "4e9c19ff3742c539": {
+    "label": "BUG",
+    "test_id": "4e9c19ff3742c539",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_015"
+  },
+  "54ac7b46e2fedd37": {
+    "label": "BUG",
+    "test_id": "54ac7b46e2fedd37",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_016"
+  },
+  "bcd606a8d4974977": {
+    "label": "BUG",
+    "test_id": "bcd606a8d4974977",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_036"
+  },
+  "cee51e6686e6934d": {
+    "label": "BUG",
+    "test_id": "cee51e6686e6934d",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_041"
+  },
+  "636c476740d5ca96": {
+    "label": "BUG",
+    "test_id": "636c476740d5ca96",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_020"
+  },
+  "7cbcb57532d96466": {
+    "label": "BUG",
+    "test_id": "7cbcb57532d96466",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_022"
+  },
+  "ee2533f0d1d46b27": {
+    "label": "BUG",
+    "test_id": "ee2533f0d1d46b27",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_050"
+  },
+  "fa876d95f31bcc4a": {
+    "label": "BUG",
+    "test_id": "fa876d95f31bcc4a",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_052"
+  },
+  "a721f800111e0502": {
+    "label": "BUG",
+    "test_id": "a721f800111e0502",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_032"
+  },
+  "bed4807ebd0a2852": {
+    "label": "BUG",
+    "test_id": "bed4807ebd0a2852",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_037"
+  },
+  "b2181066869df216": {
+    "label": "BUG",
+    "test_id": "b2181066869df216",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_033"
+  },
+  "604587b6bee78e31": {
+    "label": "BUG",
+    "test_id": "604587b6bee78e31",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_019"
+  },
+  "c4124a6791703462": {
+    "label": "BUG",
+    "test_id": "c4124a6791703462",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_04",
+    "case_id": "case_015"
+  },
+  "c47fa143dbbde3e8": {
+    "label": "BUG",
+    "test_id": "c47fa143dbbde3e8",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_04",
+    "case_id": "case_016"
+  },
+  "c0dd5d54fec44537": {
+    "label": "BUG",
+    "test_id": "c0dd5d54fec44537",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_04",
+    "case_id": "case_013"
+  },
+  "c18eb86aa5e73828": {
+    "label": "BUG",
+    "test_id": "c18eb86aa5e73828",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_04",
+    "case_id": "case_014"
+  },
+  "2c1d1d9b0f23f21c": {
+    "label": "BUG",
+    "test_id": "2c1d1d9b0f23f21c",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_04",
+    "case_id": "case_003"
+  },
+  "0241e217be17e49f": {
+    "label": "BUG",
+    "test_id": "0241e217be17e49f",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_04",
+    "case_id": "case_001"
+  },
+  "04d4cf3296ea4c96": {
+    "label": "BUG",
+    "test_id": "04d4cf3296ea4c96",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_05",
+    "case_id": "case_001"
+  },
+  "c0d6735479312307": {
+    "label": "BUG",
+    "test_id": "c0d6735479312307",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_05",
+    "case_id": "case_013"
+  },
+  "3c510927049c3266": {
+    "label": "BUG",
+    "test_id": "3c510927049c3266",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_05",
+    "case_id": "case_004"
+  },
+  "9aef180190f74d30": {
+    "label": "BUG",
+    "test_id": "9aef180190f74d30",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_05",
+    "case_id": "case_012"
+  },
+  "9e0f86dbde7739c0": {
+    "label": "NO_BUG",
+    "test_id": "9e0f86dbde7739c0",
+    "pattern": "pattern_7_0_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_009"
+  },
+  "ba582ca6929c97db": {
+    "label": "NO_BUG",
+    "test_id": "ba582ca6929c97db",
+    "pattern": "pattern_7_0_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_013"
+  },
+  "925841c443b6289e": {
+    "label": "NO_BUG",
+    "test_id": "925841c443b6289e",
+    "pattern": "pattern_7_0_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_008"
+  },
+  "fea9672707afcd9c": {
+    "label": "NO_BUG",
+    "test_id": "fea9672707afcd9c",
+    "pattern": "pattern_7_0_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_019"
+  },
+  "eb95a4fe647f500e": {
+    "label": "NO_BUG",
+    "test_id": "eb95a4fe647f500e",
+    "pattern": "pattern_7_0_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_018"
+  },
+  "db2c422f78b596c0": {
+    "label": "NO_BUG",
+    "test_id": "db2c422f78b596c0",
+    "pattern": "pattern_7_0_0_1",
+    "cluster": "cluster_02",
+    "case_id": "case_002"
+  },
+  "0228999eabdccb20": {
+    "label": "NO_BUG",
+    "test_id": "0228999eabdccb20",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_003"
+  },
+  "1d56886fa2194672": {
+    "label": "NO_BUG",
+    "test_id": "1d56886fa2194672",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_017"
+  },
+  "d4bde7148652fa4a": {
+    "label": "NO_BUG",
+    "test_id": "d4bde7148652fa4a",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_116"
+  },
+  "674792d160f9ba2a": {
+    "label": "NO_BUG",
+    "test_id": "674792d160f9ba2a",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_051"
+  },
+  "ba2f8ddc136c1c38": {
+    "label": "NO_BUG",
+    "test_id": "ba2f8ddc136c1c38",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_100"
+  },
+  "f365deb104b9b7e0": {
+    "label": "NO_BUG",
+    "test_id": "f365deb104b9b7e0",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_132"
+  },
+  "8a3b0f7cf109d44d": {
+    "label": "NO_BUG",
+    "test_id": "8a3b0f7cf109d44d",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_070"
+  },
+  "8e413db7619b1352": {
+    "label": "NO_BUG",
+    "test_id": "8e413db7619b1352",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_071"
+  },
+  "6bb04e41ec0df8b5": {
+    "label": "NO_BUG",
+    "test_id": "6bb04e41ec0df8b5",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_053"
+  },
+  "bd3f59264e011357": {
+    "label": "NO_BUG",
+    "test_id": "bd3f59264e011357",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_103"
+  },
+  "c41fa1de9b917491": {
+    "label": "NO_BUG",
+    "test_id": "c41fa1de9b917491",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_107"
+  },
+  "e6741e4abea024b5": {
+    "label": "NO_BUG",
+    "test_id": "e6741e4abea024b5",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_125"
+  },
+  "68fc6c3663cdb428": {
+    "label": "NO_BUG",
+    "test_id": "68fc6c3663cdb428",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_052"
+  },
+  "96d1459e0483b941": {
+    "label": "NO_BUG",
+    "test_id": "96d1459e0483b941",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_078"
+  },
+  "6f7dc55d9489e1a8": {
+    "label": "NO_BUG",
+    "test_id": "6f7dc55d9489e1a8",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_055"
+  },
+  "3d88094ba5905a4b": {
+    "label": "NO_BUG",
+    "test_id": "3d88094ba5905a4b",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_030"
+  },
+  "e38dcfe11a1719f6": {
+    "label": "NO_BUG",
+    "test_id": "e38dcfe11a1719f6",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_122"
+  },
+  "e9669445943e76c9": {
+    "label": "NO_BUG",
+    "test_id": "e9669445943e76c9",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_128"
+  },
+  "7eefc4405acc1ec0": {
+    "label": "NO_BUG",
+    "test_id": "7eefc4405acc1ec0",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_064"
+  },
+  "db8e5e591745232d": {
+    "label": "NO_BUG",
+    "test_id": "db8e5e591745232d",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_121"
+  },
+  "274729e9bbb0325b": {
+    "label": "NO_BUG",
+    "test_id": "274729e9bbb0325b",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_020"
+  },
+  "0ad1246b71944132": {
+    "label": "NO_BUG",
+    "test_id": "0ad1246b71944132",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_008"
+  },
+  "af6506a3fa5c8261": {
+    "label": "NO_BUG",
+    "test_id": "af6506a3fa5c8261",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_091"
+  },
+  "a97237f54f1caf9d": {
+    "label": "NO_BUG",
+    "test_id": "a97237f54f1caf9d",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_090"
+  },
+  "dacdf93b924e2a77": {
+    "label": "NO_BUG",
+    "test_id": "dacdf93b924e2a77",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_120"
+  },
+  "bc5ecbb8127a54f9": {
+    "label": "NO_BUG",
+    "test_id": "bc5ecbb8127a54f9",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_102"
+  },
+  "354f29e6c6d778a1": {
+    "label": "NO_BUG",
+    "test_id": "354f29e6c6d778a1",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_028"
+  },
+  "705ae69fd73d4802": {
+    "label": "NO_BUG",
+    "test_id": "705ae69fd73d4802",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_056"
+  },
+  "e8001041ab44d5a5": {
+    "label": "NO_BUG",
+    "test_id": "e8001041ab44d5a5",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_126"
+  },
+  "f6b7d585af7ded20": {
+    "label": "NO_BUG",
+    "test_id": "f6b7d585af7ded20",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_133"
+  },
+  "8ee5d6c94fffdfbc": {
+    "label": "NO_BUG",
+    "test_id": "8ee5d6c94fffdfbc",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_072"
+  },
+  "f9abc67b3527d091": {
+    "label": "NO_BUG",
+    "test_id": "f9abc67b3527d091",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_135"
+  },
+  "a95c4bb2c15d8c5e": {
+    "label": "NO_BUG",
+    "test_id": "a95c4bb2c15d8c5e",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_089"
+  },
+  "5b06c144b40caf18": {
+    "label": "NO_BUG",
+    "test_id": "5b06c144b40caf18",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_049"
+  },
+  "0d37b0b07b0f28dc": {
+    "label": "NO_BUG",
+    "test_id": "0d37b0b07b0f28dc",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_009"
+  },
+  "1daeee697294d7be": {
+    "label": "NO_BUG",
+    "test_id": "1daeee697294d7be",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_018"
+  },
+  "f8d3c03662617c22": {
+    "label": "NO_BUG",
+    "test_id": "f8d3c03662617c22",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_134"
+  },
+  "2362cc4ee7c286b1": {
+    "label": "NO_BUG",
+    "test_id": "2362cc4ee7c286b1",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_03",
+    "case_id": "case_001"
+  },
+  "a437a84bd154f86f": {
+    "label": "NO_BUG",
+    "test_id": "a437a84bd154f86f",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_05",
+    "case_id": "case_002"
+  },
+  "7c647e445e8a40bf": {
+    "label": "BUG",
+    "test_id": "7c647e445e8a40bf",
+    "pattern": "pattern_7_0_3_1",
+    "cluster": "cluster_01",
+    "case_id": "case_004"
+  },
+  "147c39332b77ee8b": {
+    "label": "NO_BUG",
+    "test_id": "147c39332b77ee8b",
+    "pattern": "pattern_7_3_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_001"
+  },
+  "d61637a5be3b4a37": {
+    "label": "NO_BUG",
+    "test_id": "d61637a5be3b4a37",
+    "pattern": "pattern_7_3_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_012"
+  },
+  "e88489ac9ccec17c": {
+    "label": "NO_BUG",
+    "test_id": "e88489ac9ccec17c",
+    "pattern": "pattern_7_3_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_014"
+  },
+  "423f7bd72baf3cbf": {
+    "label": "NO_BUG",
+    "test_id": "423f7bd72baf3cbf",
+    "pattern": "pattern_7_3_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_003"
+  },
+  "3f66305d71e0b933": {
+    "label": "NO_BUG",
+    "test_id": "3f66305d71e0b933",
+    "pattern": "pattern_0_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_001"
+  },
+  "7c7095213beab0a3": {
+    "label": "NO_BUG",
+    "test_id": "7c7095213beab0a3",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_025"
+  },
+  "b5e0bb4b1ee04781": {
+    "label": "NO_BUG",
+    "test_id": "b5e0bb4b1ee04781",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_040"
+  },
+  "a47c19b801bbdd5b": {
+    "label": "NO_BUG",
+    "test_id": "a47c19b801bbdd5b",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_037"
+  },
+  "267afaf28e69b3d0": {
+    "label": "NO_BUG",
+    "test_id": "267afaf28e69b3d0",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_009"
+  },
+  "a19e609f8c780a72": {
+    "label": "NO_BUG",
+    "test_id": "a19e609f8c780a72",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_036"
+  },
+  "3f16a87282b4bd9e": {
+    "label": "NO_BUG",
+    "test_id": "3f16a87282b4bd9e",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_017"
+  },
+  "0f1f49ec87e07b5d": {
+    "label": "NO_BUG",
+    "test_id": "0f1f49ec87e07b5d",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_005"
+  },
+  "14621033ea0981c5": {
+    "label": "NO_BUG",
+    "test_id": "14621033ea0981c5",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_03",
+    "case_id": "case_001"
+  },
+  "fd5d55c9b2d1be3a": {
+    "label": "BUG",
+    "test_id": "fd5d55c9b2d1be3a",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_353"
+  },
+  "4bff7d0eb71f14d0": {
+    "label": "BUG",
+    "test_id": "4bff7d0eb71f14d0",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_116"
+  },
+  "769cd4963d9fe7c5": {
+    "label": "BUG",
+    "test_id": "769cd4963d9fe7c5",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_175"
+  },
+  "354477528975a8bb": {
+    "label": "BUG",
+    "test_id": "354477528975a8bb",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_079"
+  },
+  "43c58b5eb1feb4d7": {
+    "label": "BUG",
+    "test_id": "43c58b5eb1feb4d7",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_102"
+  },
+  "64b035d70aaac537": {
+    "label": "BUG",
+    "test_id": "64b035d70aaac537",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_151"
+  },
+  "843188269d3ff299": {
+    "label": "BUG",
+    "test_id": "843188269d3ff299",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_201"
+  },
+  "3c2de3cbb3933459": {
+    "label": "BUG",
+    "test_id": "3c2de3cbb3933459",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_092"
+  },
+  "5a1ee6234dce40cd": {
+    "label": "BUG",
+    "test_id": "5a1ee6234dce40cd",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_137"
+  },
+  "4168877181275305": {
+    "label": "BUG",
+    "test_id": "4168877181275305",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_001"
+  },
+  "e7bceb739cb4c8df": {
+    "label": "BUG",
+    "test_id": "e7bceb739cb4c8df",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_319"
+  },
+  "79d7ba1e7795a8ad": {
+    "label": "BUG",
+    "test_id": "79d7ba1e7795a8ad",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_183"
+  },
+  "eb4a43ab809bc5d1": {
+    "label": "BUG",
+    "test_id": "eb4a43ab809bc5d1",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_326"
+  },
+  "a0faeecb2bf88091": {
+    "label": "BUG",
+    "test_id": "a0faeecb2bf88091",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_239"
+  },
+  "4b1c52b168bfc200": {
+    "label": "BUG",
+    "test_id": "4b1c52b168bfc200",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_115"
+  },
+  "517325d0d484954f": {
+    "label": "BUG",
+    "test_id": "517325d0d484954f",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_125"
+  },
+  "2d29dca1c11998fb": {
+    "label": "BUG",
+    "test_id": "2d29dca1c11998fb",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_068"
+  },
+  "8c3c3d7dd4e24768": {
+    "label": "BUG",
+    "test_id": "8c3c3d7dd4e24768",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_210"
+  },
+  "371db6526d671e52": {
+    "label": "BUG",
+    "test_id": "371db6526d671e52",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_083"
+  },
+  "28e63edbd367c960": {
+    "label": "BUG",
+    "test_id": "28e63edbd367c960",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_061"
+  },
+  "2464387e5d194cbb": {
+    "label": "BUG",
+    "test_id": "2464387e5d194cbb",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_049"
+  },
+  "799d01a4d101f8eb": {
+    "label": "BUG",
+    "test_id": "799d01a4d101f8eb",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_182"
+  },
+  "8ffe90c706413fe5": {
+    "label": "BUG",
+    "test_id": "8ffe90c706413fe5",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_216"
+  },
+  "b753947a7c3b7cec": {
+    "label": "BUG",
+    "test_id": "b753947a7c3b7cec",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_256"
+  },
+  "5356aded7493f288": {
+    "label": "BUG",
+    "test_id": "5356aded7493f288",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_127"
+  },
+  "2743043393a08fcc": {
+    "label": "BUG",
+    "test_id": "2743043393a08fcc",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_057"
+  },
+  "70e25608cadcc203": {
+    "label": "BUG",
+    "test_id": "70e25608cadcc203",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_168"
+  },
+  "dc066c3b66b8f54f": {
+    "label": "BUG",
+    "test_id": "dc066c3b66b8f54f",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_306"
+  },
+  "50688b402326f171": {
+    "label": "BUG",
+    "test_id": "50688b402326f171",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_123"
+  },
+  "95088dbb93d21581": {
+    "label": "BUG",
+    "test_id": "95088dbb93d21581",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_224"
+  },
+  "c3763a9cbf34fbd8": {
+    "label": "BUG",
+    "test_id": "c3763a9cbf34fbd8",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_272"
+  },
+  "b245e3a22180fc91": {
+    "label": "BUG",
+    "test_id": "b245e3a22180fc91",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_251"
+  },
+  "7c0c3ba466705908": {
+    "label": "BUG",
+    "test_id": "7c0c3ba466705908",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_187"
+  },
+  "8356b0450b0a578e": {
+    "label": "BUG",
+    "test_id": "8356b0450b0a578e",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_198"
+  },
+  "f9cc9050f81901b2": {
+    "label": "BUG",
+    "test_id": "f9cc9050f81901b2",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_348"
+  },
+  "d33cd534aa473a96": {
+    "label": "BUG",
+    "test_id": "d33cd534aa473a96",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_292"
+  },
+  "37917522177853a9": {
+    "label": "BUG",
+    "test_id": "37917522177853a9",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_085"
+  },
+  "1ed234b241c3bdc9": {
+    "label": "BUG",
+    "test_id": "1ed234b241c3bdc9",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_044"
+  },
+  "f3ec7bee930f5a81": {
+    "label": "BUG",
+    "test_id": "f3ec7bee930f5a81",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_338"
+  },
+  "06b31ab784094db4": {
+    "label": "BUG",
+    "test_id": "06b31ab784094db4",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_014"
+  },
+  "dabee2d70a365adf": {
+    "label": "BUG",
+    "test_id": "dabee2d70a365adf",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_302"
+  },
+  "442aa4c8ace4735d": {
+    "label": "BUG",
+    "test_id": "442aa4c8ace4735d",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_103"
+  },
+  "2fd387aee6cbd224": {
+    "label": "BUG",
+    "test_id": "2fd387aee6cbd224",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_072"
+  },
+  "c317dd789044e801": {
+    "label": "BUG",
+    "test_id": "c317dd789044e801",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_271"
+  },
+  "1e96b3aa3b85dd65": {
+    "label": "BUG",
+    "test_id": "1e96b3aa3b85dd65",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_043"
+  },
+  "d1f890a00cbc3de7": {
+    "label": "BUG",
+    "test_id": "d1f890a00cbc3de7",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_287"
+  },
+  "7078c409ee8af248": {
+    "label": "BUG",
+    "test_id": "7078c409ee8af248",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_167"
+  },
+  "59b5968ef216c021": {
+    "label": "BUG",
+    "test_id": "59b5968ef216c021",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_136"
+  },
+  "ced796ef470c3869": {
+    "label": "BUG",
+    "test_id": "ced796ef470c3869",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_283"
+  },
+  "da17aa4bffc24795": {
+    "label": "BUG",
+    "test_id": "da17aa4bffc24795",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_301"
+  },
+  "619c8a284c1c2ba3": {
+    "label": "BUG",
+    "test_id": "619c8a284c1c2ba3",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_147"
+  },
+  "19128848c99432b0": {
+    "label": "BUG",
+    "test_id": "19128848c99432b0",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_036"
+  },
+  "95fe0d14c43a805f": {
+    "label": "BUG",
+    "test_id": "95fe0d14c43a805f",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_226"
+  },
+  "3a1cc5c6a31ea919": {
+    "label": "BUG",
+    "test_id": "3a1cc5c6a31ea919",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_091"
+  },
+  "2674e183682446cb": {
+    "label": "BUG",
+    "test_id": "2674e183682446cb",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_055"
+  },
+  "24879dd7b6f3c1e5": {
+    "label": "BUG",
+    "test_id": "24879dd7b6f3c1e5",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_050"
+  },
+  "9270350825508379": {
+    "label": "BUG",
+    "test_id": "9270350825508379",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_002"
+  },
+  "283de78f5de82f4e": {
+    "label": "BUG",
+    "test_id": "283de78f5de82f4e",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_059"
+  },
+  "5cffd062bc20c028": {
+    "label": "BUG",
+    "test_id": "5cffd062bc20c028",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_141"
+  },
+  "b78a9a3a750ca013": {
+    "label": "BUG",
+    "test_id": "b78a9a3a750ca013",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_257"
+  },
+  "2ae42b704f040cd5": {
+    "label": "BUG",
+    "test_id": "2ae42b704f040cd5",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_064"
+  },
+  "7e907181a9ca5a55": {
+    "label": "BUG",
+    "test_id": "7e907181a9ca5a55",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_192"
+  },
+  "9cb52c80247fb629": {
+    "label": "BUG",
+    "test_id": "9cb52c80247fb629",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_233"
+  },
+  "36e020eb7059772a": {
+    "label": "BUG",
+    "test_id": "36e020eb7059772a",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_081"
+  },
+  "c18601ed9d7d40e7": {
+    "label": "BUG",
+    "test_id": "c18601ed9d7d40e7",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_267"
+  },
+  "9093b3ee41f7970e": {
+    "label": "BUG",
+    "test_id": "9093b3ee41f7970e",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_219"
+  },
+  "42bee6493981f98a": {
+    "label": "BUG",
+    "test_id": "42bee6493981f98a",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_100"
+  },
+  "4ed5786c10759831": {
+    "label": "BUG",
+    "test_id": "4ed5786c10759831",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_122"
+  },
+  "ff3eb04b7e3a9ebc": {
+    "label": "BUG",
+    "test_id": "ff3eb04b7e3a9ebc",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_356"
+  },
+  "0630cc79e2acb5d8": {
+    "label": "BUG",
+    "test_id": "0630cc79e2acb5d8",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_013"
+  },
+  "e091b6516a92ce50": {
+    "label": "BUG",
+    "test_id": "e091b6516a92ce50",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_311"
+  },
+  "0e21a7708c355886": {
+    "label": "BUG",
+    "test_id": "0e21a7708c355886",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_024"
+  },
+  "888895f9d6b01c27": {
+    "label": "BUG",
+    "test_id": "888895f9d6b01c27",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_205"
+  },
+  "ea21fc19a552989b": {
+    "label": "BUG",
+    "test_id": "ea21fc19a552989b",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_324"
+  },
+  "c73a5419a5ba9cc6": {
+    "label": "BUG",
+    "test_id": "c73a5419a5ba9cc6",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_274"
+  },
+  "7103a3ff85542aa6": {
+    "label": "BUG",
+    "test_id": "7103a3ff85542aa6",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_169"
+  },
+  "0c0504516babdc82": {
+    "label": "BUG",
+    "test_id": "0c0504516babdc82",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_019"
+  },
+  "9281a2f600c8fb71": {
+    "label": "BUG",
+    "test_id": "9281a2f600c8fb71",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_221"
+  },
+  "0149f9658f74f987": {
+    "label": "BUG",
+    "test_id": "0149f9658f74f987",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_004"
+  },
+  "30f0648f0263c6af": {
+    "label": "BUG",
+    "test_id": "30f0648f0263c6af",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_074"
+  },
+  "a2ed5ff42c25eca8": {
+    "label": "BUG",
+    "test_id": "a2ed5ff42c25eca8",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_241"
+  },
+  "bf574ce2ad3a365c": {
+    "label": "BUG",
+    "test_id": "bf574ce2ad3a365c",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_264"
+  },
+  "44ec47455f7d75f8": {
+    "label": "BUG",
+    "test_id": "44ec47455f7d75f8",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_105"
+  },
+  "86fba6cbeeb225ce": {
+    "label": "BUG",
+    "test_id": "86fba6cbeeb225ce",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_204"
+  },
+  "4af0e74ac582252e": {
+    "label": "BUG",
+    "test_id": "4af0e74ac582252e",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_114"
+  },
+  "78ded5e31a4a02e3": {
+    "label": "BUG",
+    "test_id": "78ded5e31a4a02e3",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_181"
+  },
+  "f3cc56e4b83daa7b": {
+    "label": "BUG",
+    "test_id": "f3cc56e4b83daa7b",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_337"
+  },
+  "a240e585f3cb9276": {
+    "label": "BUG",
+    "test_id": "a240e585f3cb9276",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_240"
+  },
+  "4def02fd0b3c0aac": {
+    "label": "BUG",
+    "test_id": "4def02fd0b3c0aac",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_119"
+  },
+  "b4c417c6bcd4bc80": {
+    "label": "BUG",
+    "test_id": "b4c417c6bcd4bc80",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_253"
+  },
+  "d6efd4aa754fd19c": {
+    "label": "BUG",
+    "test_id": "d6efd4aa754fd19c",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_390"
+  },
+  "0abed860584d3c60": {
+    "label": "BUG",
+    "test_id": "0abed860584d3c60",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_027"
+  },
+  "8f3fd51275d7c74a": {
+    "label": "BUG",
+    "test_id": "8f3fd51275d7c74a",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_283"
+  },
+  "c8440c4159667775": {
+    "label": "BUG",
+    "test_id": "c8440c4159667775",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_364"
+  },
+  "923a37fc3772a022": {
+    "label": "BUG",
+    "test_id": "923a37fc3772a022",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_289"
+  },
+  "14b31f028bec01ce": {
+    "label": "BUG",
+    "test_id": "14b31f028bec01ce",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_048"
+  },
+  "166c31ceabb116c7": {
+    "label": "BUG",
+    "test_id": "166c31ceabb116c7",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_056"
+  },
+  "cee87b3d8f91f494": {
+    "label": "BUG",
+    "test_id": "cee87b3d8f91f494",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_376"
+  },
+  "e6a73f31e6572977": {
+    "label": "BUG",
+    "test_id": "e6a73f31e6572977",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_421"
+  },
+  "3e1e2db72f4d72a7": {
+    "label": "BUG",
+    "test_id": "3e1e2db72f4d72a7",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_123"
+  },
+  "d55d902834d3abed": {
+    "label": "BUG",
+    "test_id": "d55d902834d3abed",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_388"
+  },
+  "32f5f80b87a258d1": {
+    "label": "BUG",
+    "test_id": "32f5f80b87a258d1",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_103"
+  },
+  "3db01002f0b84b34": {
+    "label": "BUG",
+    "test_id": "3db01002f0b84b34",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_122"
+  },
+  "cd0f1adf4a6029e5": {
+    "label": "BUG",
+    "test_id": "cd0f1adf4a6029e5",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_370"
+  },
+  "cfbc59d1f1252b1d": {
+    "label": "BUG",
+    "test_id": "cfbc59d1f1252b1d",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_378"
+  },
+  "e00fe6ae4db376ce": {
+    "label": "BUG",
+    "test_id": "e00fe6ae4db376ce",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_407"
+  },
+  "70082a3df383d461": {
+    "label": "BUG",
+    "test_id": "70082a3df383d461",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_218"
+  },
+  "3f6466549ad61b7f": {
+    "label": "BUG",
+    "test_id": "3f6466549ad61b7f",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_128"
+  },
+  "6071e22815ceda93": {
+    "label": "BUG",
+    "test_id": "6071e22815ceda93",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_177"
+  },
+  "fdbc1bf5ecba0d08": {
+    "label": "BUG",
+    "test_id": "fdbc1bf5ecba0d08",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_457"
+  },
+  "ef2490fe8f50aeca": {
+    "label": "BUG",
+    "test_id": "ef2490fe8f50aeca",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_437"
+  },
+  "51bbd2bdfea54800": {
+    "label": "BUG",
+    "test_id": "51bbd2bdfea54800",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_157"
+  },
+  "5c6ade46140c2b18": {
+    "label": "BUG",
+    "test_id": "5c6ade46140c2b18",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_171"
+  },
+  "e7ca7606d251684a": {
+    "label": "BUG",
+    "test_id": "e7ca7606d251684a",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_422"
+  },
+  "7421ded63b3ec5f6": {
+    "label": "BUG",
+    "test_id": "7421ded63b3ec5f6",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_229"
+  },
+  "8babce314f6b12d2": {
+    "label": "BUG",
+    "test_id": "8babce314f6b12d2",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_275"
+  },
+  "5406eaa0b26ca6c7": {
+    "label": "BUG",
+    "test_id": "5406eaa0b26ca6c7",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_161"
+  },
+  "b9825610078cfa1b": {
+    "label": "BUG",
+    "test_id": "b9825610078cfa1b",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_337"
+  },
+  "21195758c05fc302": {
+    "label": "BUG",
+    "test_id": "21195758c05fc302",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_077"
+  },
+  "58cf820453bc35a7": {
+    "label": "BUG",
+    "test_id": "58cf820453bc35a7",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_168"
+  },
+  "86e18b86194f4841": {
+    "label": "BUG",
+    "test_id": "86e18b86194f4841",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_259"
+  },
+  "ba68bac9c2d35a64": {
+    "label": "BUG",
+    "test_id": "ba68bac9c2d35a64",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_342"
+  },
+  "e5532a34c7e8544c": {
+    "label": "BUG",
+    "test_id": "e5532a34c7e8544c",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_419"
+  },
+  "ad3b759ad7d23208": {
+    "label": "BUG",
+    "test_id": "ad3b759ad7d23208",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_327"
+  },
+  "439cd7186aaf2dfd": {
+    "label": "BUG",
+    "test_id": "439cd7186aaf2dfd",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_136"
+  },
+  "9baf9e7217d55296": {
+    "label": "BUG",
+    "test_id": "9baf9e7217d55296",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_300"
+  },
+  "922b2bb44408d8fb": {
+    "label": "BUG",
+    "test_id": "922b2bb44408d8fb",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_288"
+  },
+  "72f223a7c52953d7": {
+    "label": "BUG",
+    "test_id": "72f223a7c52953d7",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_225"
+  },
+  "58d55b233d3d1660": {
+    "label": "BUG",
+    "test_id": "58d55b233d3d1660",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_169"
+  },
+  "1b1302a671438b01": {
+    "label": "BUG",
+    "test_id": "1b1302a671438b01",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_066"
+  },
+  "c942cc10f57aa323": {
+    "label": "BUG",
+    "test_id": "c942cc10f57aa323",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_367"
+  },
+  "754495b1f0e7f1d8": {
+    "label": "BUG",
+    "test_id": "754495b1f0e7f1d8",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_231"
+  },
+  "b658710037990dee": {
+    "label": "BUG",
+    "test_id": "b658710037990dee",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_335"
+  },
+  "76540c1d3de1637d": {
+    "label": "BUG",
+    "test_id": "76540c1d3de1637d",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_236"
+  },
+  "e27560a2ba3882d3": {
+    "label": "BUG",
+    "test_id": "e27560a2ba3882d3",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_410"
+  },
+  "ce4f41c38e334571": {
+    "label": "BUG",
+    "test_id": "ce4f41c38e334571",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_373"
+  },
+  "ac45c05228e78c63": {
+    "label": "BUG",
+    "test_id": "ac45c05228e78c63",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_325"
+  },
+  "3d06351330a234af": {
+    "label": "BUG",
+    "test_id": "3d06351330a234af",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_121"
+  },
+  "45cfbfbcb6bea4c8": {
+    "label": "BUG",
+    "test_id": "45cfbfbcb6bea4c8",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_140"
+  },
+  "9dc5b1c6aafac28f": {
+    "label": "BUG",
+    "test_id": "9dc5b1c6aafac28f",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_308"
+  },
+  "e47d55f822d13098": {
+    "label": "BUG",
+    "test_id": "e47d55f822d13098",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_415"
+  },
+  "9d528bc0556c53c7": {
+    "label": "BUG",
+    "test_id": "9d528bc0556c53c7",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_305"
+  },
+  "630b2d5a21becd72": {
+    "label": "BUG",
+    "test_id": "630b2d5a21becd72",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_187"
+  },
+  "d547ffae4ebf86cb": {
+    "label": "BUG",
+    "test_id": "d547ffae4ebf86cb",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_387"
+  },
+  "86dff24a0f500c07": {
+    "label": "BUG",
+    "test_id": "86dff24a0f500c07",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_258"
+  },
+  "1b202cd78fcc0dc5": {
+    "label": "BUG",
+    "test_id": "1b202cd78fcc0dc5",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_067"
+  },
+  "4092016725a2faa7": {
+    "label": "BUG",
+    "test_id": "4092016725a2faa7",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_131"
+  },
+  "f88f100eafe50626": {
+    "label": "BUG",
+    "test_id": "f88f100eafe50626",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_451"
+  },
+  "8f08881565251711": {
+    "label": "BUG",
+    "test_id": "8f08881565251711",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_281"
+  },
+  "058d763815a2aff1": {
+    "label": "BUG",
+    "test_id": "058d763815a2aff1",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_013"
+  },
+  "15bba13c5d3696d3": {
+    "label": "BUG",
+    "test_id": "15bba13c5d3696d3",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_054"
+  },
+  "26df95d55747c71b": {
+    "label": "BUG",
+    "test_id": "26df95d55747c71b",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_083"
+  },
+  "db559aeb45a57ac5": {
+    "label": "BUG",
+    "test_id": "db559aeb45a57ac5",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_393"
+  },
+  "510b5e895bf16561": {
+    "label": "BUG",
+    "test_id": "510b5e895bf16561",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_155"
+  },
+  "a3b09e770fefa4d1": {
+    "label": "BUG",
+    "test_id": "a3b09e770fefa4d1",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_315"
+  },
+  "66513ef2dc310ee0": {
+    "label": "BUG",
+    "test_id": "66513ef2dc310ee0",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_196"
+  },
+  "ab2509686607108c": {
+    "label": "BUG",
+    "test_id": "ab2509686607108c",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_324"
+  },
+  "05c62605e3058fa3": {
+    "label": "BUG",
+    "test_id": "05c62605e3058fa3",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_015"
+  },
+  "a5741485050d707f": {
+    "label": "BUG",
+    "test_id": "a5741485050d707f",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_319"
+  },
+  "9e40318f33ba9fa1": {
+    "label": "BUG",
+    "test_id": "9e40318f33ba9fa1",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_309"
+  },
+  "762afb3cc38c4bc3": {
+    "label": "BUG",
+    "test_id": "762afb3cc38c4bc3",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_235"
+  },
+  "09ad5e4c7079c3ef": {
+    "label": "BUG",
+    "test_id": "09ad5e4c7079c3ef",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_023"
+  },
+  "899b5eff871d2019": {
+    "label": "BUG",
+    "test_id": "899b5eff871d2019",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_269"
+  },
+  "00b7de99679d5565": {
+    "label": "BUG",
+    "test_id": "00b7de99679d5565",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_002"
+  },
+  "8a74a91555c38a33": {
+    "label": "BUG",
+    "test_id": "8a74a91555c38a33",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_272"
+  },
+  "6e035a39ffdbb2d5": {
+    "label": "BUG",
+    "test_id": "6e035a39ffdbb2d5",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_212"
+  },
+  "34a4c64a2b88bcbd": {
+    "label": "BUG",
+    "test_id": "34a4c64a2b88bcbd",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_108"
+  },
+  "6c9ed5780b0c17b4": {
+    "label": "BUG",
+    "test_id": "6c9ed5780b0c17b4",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_207"
+  },
+  "a36f14c855e1ac3b": {
+    "label": "BUG",
+    "test_id": "a36f14c855e1ac3b",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_314"
+  },
+  "90d4d48778c93f08": {
+    "label": "BUG",
+    "test_id": "90d4d48778c93f08",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_287"
+  },
+  "642c8ee5d95a1071": {
+    "label": "BUG",
+    "test_id": "642c8ee5d95a1071",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_192"
+  },
+  "6d6c9890d36c3154": {
+    "label": "BUG",
+    "test_id": "6d6c9890d36c3154",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_209"
+  },
+  "e488fe47497d4a32": {
+    "label": "BUG",
+    "test_id": "e488fe47497d4a32",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_416"
+  },
+  "2f69757ff790b411": {
+    "label": "BUG",
+    "test_id": "2f69757ff790b411",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_098"
+  },
+  "71390b0dec13ad5c": {
+    "label": "BUG",
+    "test_id": "71390b0dec13ad5c",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_221"
+  },
+  "8ede1c9a93b00ed6": {
+    "label": "BUG",
+    "test_id": "8ede1c9a93b00ed6",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_280"
+  },
+  "ff8aeba72f98ca45": {
+    "label": "BUG",
+    "test_id": "ff8aeba72f98ca45",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_461"
+  },
+  "2555937ede21825d": {
+    "label": "BUG",
+    "test_id": "2555937ede21825d",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_081"
+  },
+  "a3d9fcc73e17062e": {
+    "label": "BUG",
+    "test_id": "a3d9fcc73e17062e",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_317"
+  },
+  "093eacd53c25d018": {
+    "label": "BUG",
+    "test_id": "093eacd53c25d018",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_021"
+  },
+  "be4ec3095b0f4c15": {
+    "label": "BUG",
+    "test_id": "be4ec3095b0f4c15",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_346"
+  },
+  "462ddd0655cadbb9": {
+    "label": "BUG",
+    "test_id": "462ddd0655cadbb9",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_142"
+  },
+  "f6462078208a397d": {
+    "label": "BUG",
+    "test_id": "f6462078208a397d",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_446"
+  },
+  "205eac2de3ec2aa2": {
+    "label": "BUG",
+    "test_id": "205eac2de3ec2aa2",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_076"
+  },
+  "46ce8fe6b68e088b": {
+    "label": "BUG",
+    "test_id": "46ce8fe6b68e088b",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_143"
+  },
+  "ae3a99a187947590": {
+    "label": "BUG",
+    "test_id": "ae3a99a187947590",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_328"
+  },
+  "ef05e788927ee262": {
+    "label": "BUG",
+    "test_id": "ef05e788927ee262",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_436"
+  },
+  "3efebbd391ce9e7a": {
+    "label": "BUG",
+    "test_id": "3efebbd391ce9e7a",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_127"
+  },
+  "0e4c246a9787fa5b": {
+    "label": "BUG",
+    "test_id": "0e4c246a9787fa5b",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_035"
+  },
+  "cee8b82547446285": {
+    "label": "BUG",
+    "test_id": "cee8b82547446285",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_377"
+  },
+  "2528a1e4191cef48": {
+    "label": "BUG",
+    "test_id": "2528a1e4191cef48",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_080"
+  },
+  "89cd8b8cc850271a": {
+    "label": "BUG",
+    "test_id": "89cd8b8cc850271a",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_271"
+  },
+  "26a1ee25906628d5": {
+    "label": "BUG",
+    "test_id": "26a1ee25906628d5",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_082"
+  },
+  "868504ec0a65eb57": {
+    "label": "BUG",
+    "test_id": "868504ec0a65eb57",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_257"
+  },
+  "a56ab7de02dedf08": {
+    "label": "BUG",
+    "test_id": "a56ab7de02dedf08",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_318"
+  },
+  "0e5904725042b582": {
+    "label": "BUG",
+    "test_id": "0e5904725042b582",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_036"
+  },
+  "81642d756a66ea4e": {
+    "label": "BUG",
+    "test_id": "81642d756a66ea4e",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_247"
+  },
+  "1553e88f833ca9cc": {
+    "label": "BUG",
+    "test_id": "1553e88f833ca9cc",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_050"
+  },
+  "974e97d1366bf51e": {
+    "label": "BUG",
+    "test_id": "974e97d1366bf51e",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_297"
+  },
+  "610123f2747ceda6": {
+    "label": "BUG",
+    "test_id": "610123f2747ceda6",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_179"
+  },
+  "0e071c71c668e6ee": {
+    "label": "BUG",
+    "test_id": "0e071c71c668e6ee",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_033"
+  },
+  "75b460e1d00f2a8d": {
+    "label": "BUG",
+    "test_id": "75b460e1d00f2a8d",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_232"
+  },
+  "6fb2b842ff2ca656": {
+    "label": "BUG",
+    "test_id": "6fb2b842ff2ca656",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_217"
+  },
+  "e5344ab24943151c": {
+    "label": "BUG",
+    "test_id": "e5344ab24943151c",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_418"
+  },
+  "bdcbe7e99724acc3": {
+    "label": "BUG",
+    "test_id": "bdcbe7e99724acc3",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_344"
+  },
+  "89b8060a78035913": {
+    "label": "BUG",
+    "test_id": "89b8060a78035913",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_270"
+  },
+  "3c4f82bde39126b2": {
+    "label": "BUG",
+    "test_id": "3c4f82bde39126b2",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_117"
+  },
+  "161421b2b1739c00": {
+    "label": "BUG",
+    "test_id": "161421b2b1739c00",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_055"
+  },
+  "aa300991e7d06c43": {
+    "label": "BUG",
+    "test_id": "aa300991e7d06c43",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_321"
+  },
+  "f12d437f949fd741": {
+    "label": "BUG",
+    "test_id": "f12d437f949fd741",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_438"
+  },
+  "c1043e043a365c80": {
+    "label": "BUG",
+    "test_id": "c1043e043a365c80",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_352"
+  },
+  "8daa535a8993b73f": {
+    "label": "BUG",
+    "test_id": "8daa535a8993b73f",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_279"
+  },
+  "08d8608c52b86636": {
+    "label": "BUG",
+    "test_id": "08d8608c52b86636",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_019"
+  },
+  "890c03a974129854": {
+    "label": "BUG",
+    "test_id": "890c03a974129854",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_268"
+  },
+  "876a15f1f02fa05c": {
+    "label": "BUG",
+    "test_id": "876a15f1f02fa05c",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_025"
+  },
+  "45d1bd0f92300360": {
+    "label": "BUG",
+    "test_id": "45d1bd0f92300360",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_014"
+  },
+  "dadf667c3ceaf0be": {
+    "label": "BUG",
+    "test_id": "dadf667c3ceaf0be",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_044"
+  },
+  "9d6274944362d1bb": {
+    "label": "BUG",
+    "test_id": "9d6274944362d1bb",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_029"
+  },
+  "d64ddd9bc9767b8a": {
+    "label": "BUG",
+    "test_id": "d64ddd9bc9767b8a",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_043"
+  },
+  "3c374ce1a2c0f488": {
+    "label": "BUG",
+    "test_id": "3c374ce1a2c0f488",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_010"
+  },
+  "a6e33e697789d5ce": {
+    "label": "BUG",
+    "test_id": "a6e33e697789d5ce",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_031"
+  },
+  "3507450503e9e721": {
+    "label": "BUG",
+    "test_id": "3507450503e9e721",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_008"
+  },
+  "3c60107c821c016e": {
+    "label": "BUG",
+    "test_id": "3c60107c821c016e",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_011"
+  },
+  "ea8344589a76b753": {
+    "label": "BUG",
+    "test_id": "ea8344589a76b753",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_048"
+  },
+  "cb4161b3abfa212e": {
+    "label": "BUG",
+    "test_id": "cb4161b3abfa212e",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_040"
+  },
+  "45b8c2329d75b403": {
+    "label": "BUG",
+    "test_id": "45b8c2329d75b403",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_013"
+  },
+  "19b0278cab48e9b3": {
+    "label": "BUG",
+    "test_id": "19b0278cab48e9b3",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_003"
+  },
+  "135bd7a6ebd34801": {
+    "label": "BUG",
+    "test_id": "135bd7a6ebd34801",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_03",
+    "case_id": "case_002"
+  },
+  "e6e17e0b2ce8d72b": {
+    "label": "BUG",
+    "test_id": "e6e17e0b2ce8d72b",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_04",
+    "case_id": "case_019"
+  },
+  "8a7c3306f5d9d8f7": {
+    "label": "BUG",
+    "test_id": "8a7c3306f5d9d8f7",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_04",
+    "case_id": "case_007"
+  },
+  "be2a0e8aa45f47cc": {
+    "label": "BUG",
+    "test_id": "be2a0e8aa45f47cc",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_04",
+    "case_id": "case_011"
+  },
+  "d6d017f314c33858": {
+    "label": "BUG",
+    "test_id": "d6d017f314c33858",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_04",
+    "case_id": "case_018"
+  },
+  "35a265d0b64777cc": {
+    "label": "BUG",
+    "test_id": "35a265d0b64777cc",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_04",
+    "case_id": "case_004"
+  },
+  "cb7b919e880b446e": {
+    "label": "BUG",
+    "test_id": "cb7b919e880b446e",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_05",
+    "case_id": "case_014"
+  },
+  "f6d8bd1fdbf8f15e": {
+    "label": "BUG",
+    "test_id": "f6d8bd1fdbf8f15e",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_05",
+    "case_id": "case_017"
+  },
+  "6273941ee07e0d3c": {
+    "label": "BUG",
+    "test_id": "6273941ee07e0d3c",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_05",
+    "case_id": "case_008"
+  },
+  "30935c37019ff745": {
+    "label": "BUG",
+    "test_id": "30935c37019ff745",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_05",
+    "case_id": "case_003"
+  },
+  "762cbd8ca9f9443f": {
+    "label": "BUG",
+    "test_id": "762cbd8ca9f9443f",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_05",
+    "case_id": "case_009"
+  },
+  "ada045ceb070192e": {
+    "label": "NO_BUG",
+    "test_id": "ada045ceb070192e",
+    "pattern": "pattern_7_0_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_012"
+  },
+  "5879f4427d4c386e": {
+    "label": "NO_BUG",
+    "test_id": "5879f4427d4c386e",
+    "pattern": "pattern_7_0_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_005"
+  },
+  "576d8c6f762c06ba": {
+    "label": "NO_BUG",
+    "test_id": "576d8c6f762c06ba",
+    "pattern": "pattern_7_0_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_004"
+  },
+  "cad929e4810c21be": {
+    "label": "NO_BUG",
+    "test_id": "cad929e4810c21be",
+    "pattern": "pattern_7_0_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_015"
+  },
+  "a49cff780da90120": {
+    "label": "NO_BUG",
+    "test_id": "a49cff780da90120",
+    "pattern": "pattern_7_0_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_011"
+  },
+  "9e4950d37f55b773": {
+    "label": "NO_BUG",
+    "test_id": "9e4950d37f55b773",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_080"
+  },
+  "ff8bdb1ff9afa6a5": {
+    "label": "NO_BUG",
+    "test_id": "ff8bdb1ff9afa6a5",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_138"
+  },
+  "88ef5e6e19d2d6c7": {
+    "label": "NO_BUG",
+    "test_id": "88ef5e6e19d2d6c7",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_069"
+  },
+  "ffd390cd3e85b2c5": {
+    "label": "NO_BUG",
+    "test_id": "ffd390cd3e85b2c5",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_139"
+  },
+  "6e760ec935bd78b4": {
+    "label": "NO_BUG",
+    "test_id": "6e760ec935bd78b4",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_054"
+  },
+  "57fe745d6dc81310": {
+    "label": "NO_BUG",
+    "test_id": "57fe745d6dc81310",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_046"
+  },
+  "3604e787e8f10dd1": {
+    "label": "NO_BUG",
+    "test_id": "3604e787e8f10dd1",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_029"
+  },
+  "eaf58678c1e13b99": {
+    "label": "NO_BUG",
+    "test_id": "eaf58678c1e13b99",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_129"
+  },
+  "7aad67919814c7e9": {
+    "label": "NO_BUG",
+    "test_id": "7aad67919814c7e9",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_060"
+  },
+  "4cffa49a36bbbb0a": {
+    "label": "NO_BUG",
+    "test_id": "4cffa49a36bbbb0a",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_043"
+  },
+  "4d5145e894ae8457": {
+    "label": "NO_BUG",
+    "test_id": "4d5145e894ae8457",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_044"
+  },
+  "3df519ff1e2ecce4": {
+    "label": "NO_BUG",
+    "test_id": "3df519ff1e2ecce4",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_031"
+  },
+  "8faf2e12e801f549": {
+    "label": "NO_BUG",
+    "test_id": "8faf2e12e801f549",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_075"
+  },
+  "a345fabc518bf202": {
+    "label": "NO_BUG",
+    "test_id": "a345fabc518bf202",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_085"
+  },
+  "cde8623c7dd964d9": {
+    "label": "NO_BUG",
+    "test_id": "cde8623c7dd964d9",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_113"
+  },
+  "c80156712dd3d746": {
+    "label": "NO_BUG",
+    "test_id": "c80156712dd3d746",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_108"
+  },
+  "b8d8200a2731a583": {
+    "label": "NO_BUG",
+    "test_id": "b8d8200a2731a583",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_099"
+  },
+  "c1928718c300cae8": {
+    "label": "NO_BUG",
+    "test_id": "c1928718c300cae8",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_106"
+  },
+  "482f2f3332e234a2": {
+    "label": "NO_BUG",
+    "test_id": "482f2f3332e234a2",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_039"
+  },
+  "da3ddbf456b0086b": {
+    "label": "NO_BUG",
+    "test_id": "da3ddbf456b0086b",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_119"
+  },
+  "7cf6f626b6b495c4": {
+    "label": "NO_BUG",
+    "test_id": "7cf6f626b6b495c4",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_062"
+  },
+  "cae8f604ff470ceb": {
+    "label": "NO_BUG",
+    "test_id": "cae8f604ff470ceb",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_111"
+  },
+  "32e6d4b60ca4b4ea": {
+    "label": "NO_BUG",
+    "test_id": "32e6d4b60ca4b4ea",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_027"
+  },
+  "7d4f28045c44fbb9": {
+    "label": "NO_BUG",
+    "test_id": "7d4f28045c44fbb9",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_063"
+  },
+  "49f26524467dda0a": {
+    "label": "NO_BUG",
+    "test_id": "49f26524467dda0a",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_041"
+  },
+  "cf0c849c1e28478f": {
+    "label": "NO_BUG",
+    "test_id": "cf0c849c1e28478f",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_115"
+  },
+  "4282ff4755740424": {
+    "label": "NO_BUG",
+    "test_id": "4282ff4755740424",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_035"
+  },
+  "8f7db641075e29e5": {
+    "label": "NO_BUG",
+    "test_id": "8f7db641075e29e5",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_074"
+  },
+  "ced6904d4da5e476": {
+    "label": "NO_BUG",
+    "test_id": "ced6904d4da5e476",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_114"
+  },
+  "0003cede201a6b03": {
+    "label": "NO_BUG",
+    "test_id": "0003cede201a6b03",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_001"
+  },
+  "14ec1bd67fa776f6": {
+    "label": "NO_BUG",
+    "test_id": "14ec1bd67fa776f6",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_011"
+  },
+  "65f26f14cad73235": {
+    "label": "NO_BUG",
+    "test_id": "65f26f14cad73235",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_050"
+  },
+  "05c8869e1620ea0d": {
+    "label": "NO_BUG",
+    "test_id": "05c8869e1620ea0d",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_004"
+  },
+  "d8ef285bddf5ec0b": {
+    "label": "NO_BUG",
+    "test_id": "d8ef285bddf5ec0b",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_117"
+  },
+  "296c51c703576d9f": {
+    "label": "NO_BUG",
+    "test_id": "296c51c703576d9f",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_022"
+  },
+  "a3b59d127ced0f7e": {
+    "label": "NO_BUG",
+    "test_id": "a3b59d127ced0f7e",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_086"
+  },
+  "8777f2c390ee386a": {
+    "label": "NO_BUG",
+    "test_id": "8777f2c390ee386a",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_067"
+  },
+  "25ac5facf8eecfe1": {
+    "label": "NO_BUG",
+    "test_id": "25ac5facf8eecfe1",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_003"
+  },
+  "9d519edd7c4368a0": {
+    "label": "NO_BUG",
+    "test_id": "9d519edd7c4368a0",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_04",
+    "case_id": "case_003"
+  },
+  "9dae7a194450dcae": {
+    "label": "BUG",
+    "test_id": "9dae7a194450dcae",
+    "pattern": "pattern_7_0_3_1",
+    "cluster": "cluster_01",
+    "case_id": "case_008"
+  },
+  "94c4600f0e242d4f": {
+    "label": "BUG",
+    "test_id": "94c4600f0e242d4f",
+    "pattern": "pattern_7_0_3_1",
+    "cluster": "cluster_01",
+    "case_id": "case_006"
+  },
+  "660ae7b9ff90545d": {
+    "label": "NO_BUG",
+    "test_id": "660ae7b9ff90545d",
+    "pattern": "pattern_7_3_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_004"
+  },
+  "b3cb596c9d89b539": {
+    "label": "NO_BUG",
+    "test_id": "b3cb596c9d89b539",
+    "pattern": "pattern_7_3_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_010"
+  },
+  "d739560ce1a9733c": {
+    "label": "NO_BUG",
+    "test_id": "d739560ce1a9733c",
+    "pattern": "pattern_7_3_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_013"
+  },
+  "b35becde6d8ed06b": {
+    "label": "NO_BUG",
+    "test_id": "b35becde6d8ed06b",
+    "pattern": "pattern_7_3_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_012"
+  },
+  "d75785ae591fd202": {
+    "label": "NO_BUG",
+    "test_id": "d75785ae591fd202",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_005"
+  },
+  "7bc56a1c597e69f4": {
+    "label": "NO_BUG",
+    "test_id": "7bc56a1c597e69f4",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_024"
+  },
+  "8e9c678d53da0c1a": {
+    "label": "NO_BUG",
+    "test_id": "8e9c678d53da0c1a",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_030"
+  },
+  "35ce73161323a367": {
+    "label": "NO_BUG",
+    "test_id": "35ce73161323a367",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_013"
+  },
+  "5a36929b2cf54a96": {
+    "label": "NO_BUG",
+    "test_id": "5a36929b2cf54a96",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_021"
+  },
+  "a19358a6922746d4": {
+    "label": "NO_BUG",
+    "test_id": "a19358a6922746d4",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_035"
+  },
+  "9cd273a3f6120abf": {
+    "label": "NO_BUG",
+    "test_id": "9cd273a3f6120abf",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_034"
+  },
+  "525b036dbc9b0af9": {
+    "label": "NO_BUG",
+    "test_id": "525b036dbc9b0af9",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_019"
+  },
+  "d763a445fce15745": {
+    "label": "NO_BUG",
+    "test_id": "d763a445fce15745",
+    "pattern": "pattern_137_0_0_137",
+    "cluster": "cluster_01",
+    "case_id": "case_001"
+  },
+  "9d8db7a7043cacb4": {
+    "label": "BUG",
+    "test_id": "9d8db7a7043cacb4",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_234"
+  },
+  "c8fbe8443a4d04d2": {
+    "label": "BUG",
+    "test_id": "c8fbe8443a4d04d2",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_276"
+  },
+  "494dd7c20b5e87fa": {
+    "label": "BUG",
+    "test_id": "494dd7c20b5e87fa",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_113"
+  },
+  "d24bc128754b45b3": {
+    "label": "BUG",
+    "test_id": "d24bc128754b45b3",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_288"
+  },
+  "7439c7a5d8e2e3f8": {
+    "label": "BUG",
+    "test_id": "7439c7a5d8e2e3f8",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_174"
+  },
+  "279063ec724e5580": {
+    "label": "BUG",
+    "test_id": "279063ec724e5580",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_058"
+  },
+  "857368aa6dea8069": {
+    "label": "NO_BUG",
+    "test_id": "857368aa6dea8069",
+    "pattern": "pattern_0_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_001"
+  },
+  "94a89754c12994c8": {
+    "label": "NO_BUG",
+    "test_id": "94a89754c12994c8",
+    "pattern": "pattern_0_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_002"
+  },
+  "9e63e3d7eb13adfa": {
+    "label": "NO_BUG",
+    "test_id": "9e63e3d7eb13adfa",
+    "pattern": "pattern_0_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_003"
+  },
+  "a79a036c7f6dc334": {
+    "label": "NO_BUG",
+    "test_id": "a79a036c7f6dc334",
+    "pattern": "pattern_0_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_004"
+  },
+  "d8732d5a611de1a2": {
+    "label": "BUG",
+    "test_id": "d8732d5a611de1a2",
+    "pattern": "pattern_0_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_005"
+  },
+  "2e34762c03837dfa": {
+    "label": "NO_BUG",
+    "test_id": "2e34762c03837dfa",
+    "pattern": "pattern_0_0_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_002"
+  },
+  "bb184f6e0db2740c": {
+    "label": "NO_BUG",
+    "test_id": "bb184f6e0db2740c",
+    "pattern": "pattern_0_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_002"
+  },
+  "6cc34a31c9339db6": {
+    "label": "NO_BUG",
+    "test_id": "6cc34a31c9339db6",
+    "pattern": "pattern_0_3_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_001"
+  },
+  "8bb8e348e5165d2d": {
+    "label": "BUG",
+    "test_id": "8bb8e348e5165d2d",
+    "pattern": "pattern_0_3_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_002"
+  },
+  "dd98776e45ec5450": {
+    "label": "BUG",
+    "test_id": "dd98776e45ec5450",
+    "pattern": "pattern_0_3_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_004"
+  },
+  "468caff09fb2a3bc": {
+    "label": "NO_BUG",
+    "test_id": "468caff09fb2a3bc",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_003"
+  },
+  "033216fbf805562b": {
+    "label": "NO_BUG",
+    "test_id": "033216fbf805562b",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_001"
+  },
+  "285ca5e20cd1086e": {
+    "label": "NO_BUG",
+    "test_id": "285ca5e20cd1086e",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_010"
+  },
+  "4cce4e7b9687ddee": {
+    "label": "NO_BUG",
+    "test_id": "4cce4e7b9687ddee",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_018"
+  },
+  "70bea4ea346abfa5": {
+    "label": "NO_BUG",
+    "test_id": "70bea4ea346abfa5",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_022"
+  },
+  "74a016577d41c4af": {
+    "label": "NO_BUG",
+    "test_id": "74a016577d41c4af",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_023"
+  },
+  "7c8ae59faf7a1cad": {
+    "label": "NO_BUG",
+    "test_id": "7c8ae59faf7a1cad",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_026"
+  },
+  "844c1ff7a8019f45": {
+    "label": "NO_BUG",
+    "test_id": "844c1ff7a8019f45",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_028"
+  },
+  "878e40f8e2fd88d1": {
+    "label": "NO_BUG",
+    "test_id": "878e40f8e2fd88d1",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_029"
+  },
+  "90822af2c258e062": {
+    "label": "NO_BUG",
+    "test_id": "90822af2c258e062",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_032"
+  },
+  "427bbba6d2ca6612": {
+    "label": "NO_BUG",
+    "test_id": "427bbba6d2ca6612",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_03",
+    "case_id": "case_002"
+  },
+  "498d0ecfb8cbc187": {
+    "label": "NO_BUG",
+    "test_id": "498d0ecfb8cbc187",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_04",
+    "case_id": "case_001"
+  },
+  "e443183b34ff8819": {
+    "label": "BUG",
+    "test_id": "e443183b34ff8819",
+    "pattern": "pattern_0_3_3_0",
+    "cluster": "cluster_05",
+    "case_id": "case_001"
+  },
+  "21b3def9aa90aa92": {
+    "label": "NO_BUG",
+    "test_id": "21b3def9aa90aa92",
+    "pattern": "pattern_0_3_3_1",
+    "cluster": "cluster_01",
+    "case_id": "case_001"
+  },
+  "c15bc80ece7b7f35": {
+    "label": "NO_BUG",
+    "test_id": "c15bc80ece7b7f35",
+    "pattern": "pattern_0_3_3_1",
+    "cluster": "cluster_01",
+    "case_id": "case_003"
+  },
+  "f3683836f15dde8c": {
+    "label": "BUG",
+    "test_id": "f3683836f15dde8c",
+    "pattern": "pattern_0_3_3_1",
+    "cluster": "cluster_01",
+    "case_id": "case_004"
+  },
+  "2df0826293988c6a": {
+    "label": "BUG",
+    "test_id": "2df0826293988c6a",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_01",
+    "case_id": "case_069"
+  },
+  "41baebdf5bacbffd": {
+    "label": "BUG",
+    "test_id": "41baebdf5bacbffd",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_133"
+  },
+  "8f29ba469a1ff1f4": {
+    "label": "BUG",
+    "test_id": "8f29ba469a1ff1f4",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_282"
+  },
+  "ecacf445262ef2ac": {
+    "label": "BUG",
+    "test_id": "ecacf445262ef2ac",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_431"
+  },
+  "f1c5094742d728db": {
+    "label": "BUG",
+    "test_id": "f1c5094742d728db",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_440"
+  },
+  "f70a69681a14dc03": {
+    "label": "BUG",
+    "test_id": "f70a69681a14dc03",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_02",
+    "case_id": "case_447"
+  },
+  "b67e542cc2418183": {
+    "label": "BUG",
+    "test_id": "b67e542cc2418183",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_04",
+    "case_id": "case_010"
+  },
+  "d3871f84c475cd21": {
+    "label": "BUG",
+    "test_id": "d3871f84c475cd21",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_04",
+    "case_id": "case_017"
+  },
+  "508183eaa6b557ba": {
+    "label": "BUG",
+    "test_id": "508183eaa6b557ba",
+    "pattern": "pattern_7_0_0_0",
+    "cluster": "cluster_05",
+    "case_id": "case_006"
+  },
+  "3c36be18b23a398b": {
+    "label": "NO_BUG",
+    "test_id": "3c36be18b23a398b",
+    "pattern": "pattern_7_0_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_001"
+  },
+  "41b09cde1cb1ce20": {
+    "label": "NO_BUG",
+    "test_id": "41b09cde1cb1ce20",
+    "pattern": "pattern_7_0_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_002"
+  },
+  "5355f903df0d2a96": {
+    "label": "NO_BUG",
+    "test_id": "5355f903df0d2a96",
+    "pattern": "pattern_7_0_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_003"
+  },
+  "64f90339d883e0dc": {
+    "label": "NO_BUG",
+    "test_id": "64f90339d883e0dc",
+    "pattern": "pattern_7_0_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_007"
+  },
+  "a013c49029aca9dc": {
+    "label": "BUG",
+    "test_id": "a013c49029aca9dc",
+    "pattern": "pattern_7_0_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_010"
+  },
+  "c208444f0b81fe84": {
+    "label": "NO_BUG",
+    "test_id": "c208444f0b81fe84",
+    "pattern": "pattern_7_0_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_014"
+  },
+  "cd31f05df8c3f810": {
+    "label": "NO_BUG",
+    "test_id": "cd31f05df8c3f810",
+    "pattern": "pattern_7_0_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_016"
+  },
+  "dfcae1e6092e7048": {
+    "label": "NO_BUG",
+    "test_id": "dfcae1e6092e7048",
+    "pattern": "pattern_7_0_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_017"
+  },
+  "dad8bec01828ccfd": {
+    "label": "NO_BUG",
+    "test_id": "dad8bec01828ccfd",
+    "pattern": "pattern_7_0_0_1",
+    "cluster": "cluster_02",
+    "case_id": "case_001"
+  },
+  "068695b163bd584e": {
+    "label": "NO_BUG",
+    "test_id": "068695b163bd584e",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_005"
+  },
+  "18328a8875801f3d": {
+    "label": "NO_BUG",
+    "test_id": "18328a8875801f3d",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_013"
+  },
+  "46e613b0e5a58586": {
+    "label": "NO_BUG",
+    "test_id": "46e613b0e5a58586",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_037"
+  },
+  "726b7eb21a347d56": {
+    "label": "NO_BUG",
+    "test_id": "726b7eb21a347d56",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_057"
+  },
+  "93ab2647341aeff1": {
+    "label": "NO_BUG",
+    "test_id": "93ab2647341aeff1",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_077"
+  },
+  "9ed252b5c997ce8d": {
+    "label": "NO_BUG",
+    "test_id": "9ed252b5c997ce8d",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_081"
+  },
+  "a04fc56bf91ac9b2": {
+    "label": "BUG",
+    "test_id": "a04fc56bf91ac9b2",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_082"
+  },
+  "be4de24868530784": {
+    "label": "NO_BUG",
+    "test_id": "be4de24868530784",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_104"
+  },
+  "c840f4f79a3cac0c": {
+    "label": "NO_BUG",
+    "test_id": "c840f4f79a3cac0c",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_109"
+  },
+  "c8f1756e40680439": {
+    "label": "NO_BUG",
+    "test_id": "c8f1756e40680439",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_110"
+  },
+  "d414cbb4716b4543": {
+    "label": "NO_BUG",
+    "test_id": "d414cbb4716b4543",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_02",
+    "case_id": "case_010"
+  },
+  "db4605d9465317a0": {
+    "label": "NO_BUG",
+    "test_id": "db4605d9465317a0",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_03",
+    "case_id": "case_005"
+  },
+  "81b6d1db825ad281": {
+    "label": "NO_BUG",
+    "test_id": "81b6d1db825ad281",
+    "pattern": "pattern_7_0_3_0",
+    "cluster": "cluster_04",
+    "case_id": "case_002"
+  },
+  "205c696a5832000f": {
+    "label": "BUG",
+    "test_id": "205c696a5832000f",
+    "pattern": "pattern_7_0_3_1",
+    "cluster": "cluster_01",
+    "case_id": "case_001"
+  },
+  "2149b6398280d1fe": {
+    "label": "BUG",
+    "test_id": "2149b6398280d1fe",
+    "pattern": "pattern_7_0_3_1",
+    "cluster": "cluster_01",
+    "case_id": "case_002"
+  },
+  "411cbc3f28f011c7": {
+    "label": "BUG",
+    "test_id": "411cbc3f28f011c7",
+    "pattern": "pattern_7_0_3_1",
+    "cluster": "cluster_01",
+    "case_id": "case_003"
+  },
+  "8744310be547df00": {
+    "label": "BUG",
+    "test_id": "8744310be547df00",
+    "pattern": "pattern_7_0_3_1",
+    "cluster": "cluster_01",
+    "case_id": "case_005"
+  },
+  "959632e68eb550a9": {
+    "label": "BUG",
+    "test_id": "959632e68eb550a9",
+    "pattern": "pattern_7_0_3_1",
+    "cluster": "cluster_01",
+    "case_id": "case_007"
+  },
+  "a8d51a520f1cf33c": {
+    "label": "BUG",
+    "test_id": "a8d51a520f1cf33c",
+    "pattern": "pattern_7_0_3_1",
+    "cluster": "cluster_01",
+    "case_id": "case_009"
+  },
+  "ae6073becdeab329": {
+    "label": "BUG",
+    "test_id": "ae6073becdeab329",
+    "pattern": "pattern_7_0_3_1",
+    "cluster": "cluster_01",
+    "case_id": "case_010"
+  },
+  "b422af127a28b75e": {
+    "label": "BUG",
+    "test_id": "b422af127a28b75e",
+    "pattern": "pattern_7_0_3_1",
+    "cluster": "cluster_01",
+    "case_id": "case_011"
+  },
+  "b90551d6d54c0716": {
+    "label": "NO_BUG",
+    "test_id": "b90551d6d54c0716",
+    "pattern": "pattern_7_0_3_1",
+    "cluster": "cluster_01",
+    "case_id": "case_012"
+  },
+  "cc3ab0af8e968696": {
+    "label": "BUG",
+    "test_id": "cc3ab0af8e968696",
+    "pattern": "pattern_7_0_3_1",
+    "cluster": "cluster_01",
+    "case_id": "case_013"
+  },
+  "2be9cff50382f038": {
+    "label": "NO_BUG",
+    "test_id": "2be9cff50382f038",
+    "pattern": "pattern_7_3_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_002"
+  },
+  "787f2a19155f58f4": {
+    "label": "NO_BUG",
+    "test_id": "787f2a19155f58f4",
+    "pattern": "pattern_7_3_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_005"
+  },
+  "7ac92916fe00dcd7": {
+    "label": "NO_BUG",
+    "test_id": "7ac92916fe00dcd7",
+    "pattern": "pattern_7_3_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_006"
+  },
+  "849ee43eefbec00b": {
+    "label": "NO_BUG",
+    "test_id": "849ee43eefbec00b",
+    "pattern": "pattern_7_3_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_007"
+  },
+  "96f7516e29b14fad": {
+    "label": "NO_BUG",
+    "test_id": "96f7516e29b14fad",
+    "pattern": "pattern_7_3_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_008"
+  },
+  "98176c7ec10d5773": {
+    "label": "NO_BUG",
+    "test_id": "98176c7ec10d5773",
+    "pattern": "pattern_7_3_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_009"
+  },
+  "bdab20a37c04a9f6": {
+    "label": "NO_BUG",
+    "test_id": "bdab20a37c04a9f6",
+    "pattern": "pattern_7_3_0_1",
+    "cluster": "cluster_01",
+    "case_id": "case_011"
+  },
+  "10080cf504a3fcc7": {
+    "label": "BUG",
+    "test_id": "10080cf504a3fcc7",
+    "pattern": "pattern_7_3_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_001"
+  },
+  "1721cfa2c333703b": {
+    "label": "NO_BUG",
+    "test_id": "1721cfa2c333703b",
+    "pattern": "pattern_7_3_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_002"
+  },
+  "1e6615dd31eaf5f1": {
+    "label": "NO_BUG",
+    "test_id": "1e6615dd31eaf5f1",
+    "pattern": "pattern_7_3_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_003"
+  },
+  "2bda7928708716aa": {
+    "label": "NO_BUG",
+    "test_id": "2bda7928708716aa",
+    "pattern": "pattern_7_3_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_004"
+  },
+  "32dd1f4b4ffe6ad6": {
+    "label": "NO_BUG",
+    "test_id": "32dd1f4b4ffe6ad6",
+    "pattern": "pattern_7_3_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_005"
+  },
+  "37966c5325f21c68": {
+    "label": "NO_BUG",
+    "test_id": "37966c5325f21c68",
+    "pattern": "pattern_7_3_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_006"
+  },
+  "493b0f00e25b6ec6": {
+    "label": "NO_BUG",
+    "test_id": "493b0f00e25b6ec6",
+    "pattern": "pattern_7_3_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_007"
+  },
+  "57870f6e445eb727": {
+    "label": "NO_BUG",
+    "test_id": "57870f6e445eb727",
+    "pattern": "pattern_7_3_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_008"
+  },
+  "8924bea15f20c919": {
+    "label": "NO_BUG",
+    "test_id": "8924bea15f20c919",
+    "pattern": "pattern_7_3_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_009"
+  },
+  "9caf91a4e58c84f8": {
+    "label": "NO_BUG",
+    "test_id": "9caf91a4e58c84f8",
+    "pattern": "pattern_7_3_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_010"
+  },
+  "9fd86709a1aa49dc": {
+    "label": "NO_BUG",
+    "test_id": "9fd86709a1aa49dc",
+    "pattern": "pattern_7_3_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_011"
+  },
+  "cf681577a1327de6": {
+    "label": "NO_BUG",
+    "test_id": "cf681577a1327de6",
+    "pattern": "pattern_7_3_3_0",
+    "cluster": "cluster_01",
+    "case_id": "case_013"
+  }
+}

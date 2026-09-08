@@ -1,0 +1,76 @@
+{
+  "session_id": "6627e1ae-9cf8-42fe-aec0-e67830da8dbc",
+  "test_id": "d28b5679ac38ce8e",
+  "start_time": "2025-10-02T13:31:34.975635",
+  "end_time": "2025-10-02T13:32:24.517618",
+  "final_decision": "REPORT",
+  "final_confidence": 0.9,
+  "final_rationale": "Spidermonkey crashes with a specific MOZ_CRASH message \"Must not run any more promise jobs after quitting\", indicating an internal assertion failure related to promise job queue handling. This is a clear engine bug, as other engines either throw ReferenceError or exit cleanly.",
+  "steps": [
+    {
+      "timestamp": "2025-10-02T13:32:24.517045",
+      "step_type": "agent_call",
+      "agent_name": "false_positive_critic",
+      "tool_name": null,
+      "input_data": {
+        "request": "Is a MOZ_CRASH with 'Must not run any more promise jobs after quitting' a known false positive?"
+      },
+      "output_data": {
+        "result": ""
+      },
+      "reasoning": "",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-02T13:32:24.517298",
+      "step_type": "agent_call",
+      "agent_name": "triage_orchestrator",
+      "tool_name": null,
+      "input_data": {
+        "message": "Orchestrator reasoning"
+      },
+      "output_data": {
+        "response": "A test involving `Promise.resolve().then()` callbacks, where the callbacks attempt to call undefined functions `then` and `crash`, reveals a divergence in engine behavior. V8 correctly throws `ReferenceError` for the undefined functions. JavaScriptCore and GraalJS exit cleanly. Spidermonkey, however, crashes with a `MOZ_CRASH` message indicating \"Must not run any more promise jobs after quitting,\" suggesting an internal assertion failure related to promise job queue handling.\n\nThe specific `MOZ_CRASH` message in Spidermonkey points to an internal engine bug related to promise job execution after a \"quitting\" state. This is a clear deviation from the expected behavior of either throwing a `ReferenceError` (like V8) or exiting cleanly (like JSC and GraalJS).\n\nThe `false_positive_critic` did not identify this `MOZ_CRASH` pattern as a known false positive.\n\nTherefore, this is a reportable issue."
+      },
+      "reasoning": "A test involving `Promise.resolve().then()` callbacks, where the callbacks attempt to call undefined functions `then` and `crash`, reveals a divergence in engine behavior. V8 correctly throws `ReferenceError` for the undefined functions. JavaScriptCore and GraalJS exit cleanly. Spidermonkey, however, crashes with a `MOZ_CRASH` message indicating \"Must not run any more promise jobs after quitting,\" suggesting an internal assertion failure related to promise job queue handling.\n\nThe specific `MOZ_CRASH` message in Spidermonkey points to an internal engine bug related to promise job execution after a \"quitting\" state. This is a clear deviation from the expected behavior of either throwing a `ReferenceError` (like V8) or exiting cleanly (like JSC and GraalJS).\n\nThe `false_positive_critic` did not identify this `MOZ_CRASH` pattern as a known false positive.\n\nTherefore, this is a reportable issue.",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-02T13:32:24.517417",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "make_decision",
+      "input_data": {
+        "rationale": "Spidermonkey crashes with a specific MOZ_CRASH message \"Must not run any more promise jobs after quitting\", indicating an internal assertion failure related to promise job queue handling. This is a clear engine bug, as other engines either throw ReferenceError or exit cleanly.",
+        "decision": "REPORT",
+        "confidence": 0.9
+      },
+      "output_data": {
+        "decision": "REPORT",
+        "confidence": 0.9,
+        "rationale": "Spidermonkey crashes with a specific MOZ_CRASH message \"Must not run any more promise jobs after quitting\", indicating an internal assertion failure related to promise job queue handling. This is a clear engine bug, as other engines either throw ReferenceError or exit cleanly."
+      },
+      "reasoning": "{'decision': 'REPORT', 'confidence': 0.9, 'rationale': 'Spidermonkey crashes with a specific MOZ_CRASH message \"Must not run any more promise jobs after quitting\", indicating an internal assertion failure related to promise job queue handling. This is a clear engine bug, as other engines either throw ReferenceError or exit cleanly.'}",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-02T13:32:24.517530",
+      "step_type": "decision",
+      "agent_name": null,
+      "tool_name": null,
+      "input_data": null,
+      "output_data": null,
+      "reasoning": "Spidermonkey crashes with a specific MOZ_CRASH message \"Must not run any more promise jobs after quitting\", indicating an internal assertion failure related to promise job queue handling. This is a clear engine bug, as other engines either throw ReferenceError or exit cleanly.",
+      "confidence": 0.9,
+      "duration_ms": null,
+      "error": null
+    }
+  ],
+  "total_duration_ms": 49541.983
+}

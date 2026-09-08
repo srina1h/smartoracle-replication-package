@@ -1,0 +1,76 @@
+{
+  "session_id": "c6f667a0-3dd8-48fe-8482-b0810f0488f6",
+  "test_id": "e40cd9cee48b5e18",
+  "start_time": "2025-10-02T13:27:38.616428",
+  "end_time": "2025-10-02T13:29:18.102228",
+  "final_decision": "REPORT",
+  "final_confidence": 1.0,
+  "final_rationale": "V8 correctly identifies a duplicate parameter name as an \"Invalid asm.js\" error, which is a validation error according to the asm.js specification. Spidermonkey, JavaScriptCore, and GraalJS fail to report this validation error, indicating non-compliance with the asm.js specification.",
+  "steps": [
+    {
+      "timestamp": "2025-10-02T13:29:18.101445",
+      "step_type": "agent_call",
+      "agent_name": "triage_orchestrator",
+      "tool_name": null,
+      "input_data": {
+        "message": "Orchestrator reasoning"
+      },
+      "output_data": {
+        "response": "The issue involves a JavaScript `asm.js` module where a function is defined with duplicate parameter names. V8 reports an \"Invalid asm.js: Duplicate parameter name\" error, while Spidermonkey, JavaScriptCore, and GraalJS execute the code without any errors.\n\n"
+      },
+      "reasoning": "The issue involves a JavaScript `asm.js` module where a function is defined with duplicate parameter names. V8 reports an \"Invalid asm.js: Duplicate parameter name\" error, while Spidermonkey, JavaScriptCore, and GraalJS execute the code without any errors.\n\n",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-02T13:29:18.101740",
+      "step_type": "agent_call",
+      "agent_name": "spec_checker",
+      "tool_name": null,
+      "input_data": {
+        "request": "ECMA-262 specification regarding duplicate parameter names in function declarations"
+      },
+      "output_data": {
+        "result": ""
+      },
+      "reasoning": "",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-02T13:29:18.101961",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "make_decision",
+      "input_data": {
+        "confidence": 1,
+        "rationale": "V8 correctly identifies a duplicate parameter name as an \"Invalid asm.js\" error, which is a validation error according to the asm.js specification. Spidermonkey, JavaScriptCore, and GraalJS fail to report this validation error, indicating non-compliance with the asm.js specification.",
+        "decision": "REPORT"
+      },
+      "output_data": {
+        "decision": "REPORT",
+        "confidence": 1,
+        "rationale": "V8 correctly identifies a duplicate parameter name as an \"Invalid asm.js\" error, which is a validation error according to the asm.js specification. Spidermonkey, JavaScriptCore, and GraalJS fail to report this validation error, indicating non-compliance with the asm.js specification."
+      },
+      "reasoning": "{'decision': 'REPORT', 'confidence': 1, 'rationale': 'V8 correctly identifies a duplicate parameter name as an \"Invalid asm.js\" error, which is a validation error according to the asm.js specification. Spidermonkey, JavaScriptCore, and GraalJS fail to report this validation error, indicating non-compliance with the asm.js specification.'}",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-02T13:29:18.102104",
+      "step_type": "decision",
+      "agent_name": null,
+      "tool_name": null,
+      "input_data": null,
+      "output_data": null,
+      "reasoning": "V8 correctly identifies a duplicate parameter name as an \"Invalid asm.js\" error, which is a validation error according to the asm.js specification. Spidermonkey, JavaScriptCore, and GraalJS fail to report this validation error, indicating non-compliance with the asm.js specification.",
+      "confidence": 1.0,
+      "duration_ms": null,
+      "error": null
+    }
+  ],
+  "total_duration_ms": 99485.8
+}

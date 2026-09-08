@@ -1,0 +1,369 @@
+{
+  "input_root": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json",
+  "output_root": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline",
+  "count": 45,
+  "processed": [
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/GraalJS/gr1/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/GraalJS/gr1/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 33751,
+      "cost": 0.0,
+      "elapsed_s": 53.279
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/GraalJS/gr10/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/GraalJS/gr10/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 12019,
+      "cost": 0.0,
+      "elapsed_s": 69.929
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/GraalJS/gr11/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/GraalJS/gr11/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 11326,
+      "cost": 0.0,
+      "elapsed_s": 65.873
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/GraalJS/gr12/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/GraalJS/gr12/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 13258,
+      "cost": 0.0,
+      "elapsed_s": 67.264
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/GraalJS/gr13/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/GraalJS/gr13/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 12008,
+      "cost": 0.0,
+      "elapsed_s": 86.21
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/GraalJS/gr14/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/GraalJS/gr14/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 13640,
+      "cost": 0.0,
+      "elapsed_s": 80.663
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/GraalJS/gr15/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/GraalJS/gr15/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 12749,
+      "cost": 0.0,
+      "elapsed_s": 62.783
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/GraalJS/gr16/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/GraalJS/gr16/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 13399,
+      "cost": 0.0,
+      "elapsed_s": 66.042
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/GraalJS/gr2/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/GraalJS/gr2/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 15998,
+      "cost": 0.0,
+      "elapsed_s": 109.757
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/GraalJS/gr3/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/GraalJS/gr3/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 12202,
+      "cost": 0.0,
+      "elapsed_s": 101.492
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/GraalJS/gr4/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/GraalJS/gr4/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 15759,
+      "cost": 0.0,
+      "elapsed_s": 103.23
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/GraalJS/gr5/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/GraalJS/gr5/case_data_baseline.json",
+      "decision": "SKIP",
+      "tokens": 11942,
+      "cost": 0.0,
+      "elapsed_s": 64.889
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/GraalJS/gr6/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/GraalJS/gr6/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 16011,
+      "cost": 0.0,
+      "elapsed_s": 103.905
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/GraalJS/gr7/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/GraalJS/gr7/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 15859,
+      "cost": 0.0,
+      "elapsed_s": 81.154
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/GraalJS/gr8/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/GraalJS/gr8/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 16955,
+      "cost": 0.0,
+      "elapsed_s": 110.863
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/GraalJS/gr9/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/GraalJS/gr9/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 16910,
+      "cost": 0.0,
+      "elapsed_s": 112.629
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/ModdableXS/md1/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/ModdableXS/md1/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 11432,
+      "cost": 0.0,
+      "elapsed_s": 90.446
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/ModdableXS/md10/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/ModdableXS/md10/case_data_baseline.json",
+      "decision": "SKIP",
+      "tokens": 25145,
+      "cost": 0.0,
+      "elapsed_s": 83.256
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/ModdableXS/md11/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/ModdableXS/md11/case_data_baseline.json",
+      "decision": "SKIP",
+      "tokens": 11487,
+      "cost": 0.0,
+      "elapsed_s": 65.266
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/ModdableXS/md12/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/ModdableXS/md12/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 18001,
+      "cost": 0.0,
+      "elapsed_s": 121.454
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/ModdableXS/md13/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/ModdableXS/md13/case_data_baseline.json",
+      "decision": "SKIP",
+      "tokens": 16364,
+      "cost": 0.0,
+      "elapsed_s": 117.022
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/ModdableXS/md14/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/ModdableXS/md14/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 13699,
+      "cost": 0.0,
+      "elapsed_s": 90.181
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/ModdableXS/md15/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/ModdableXS/md15/case_data_baseline.json",
+      "decision": "SKIP",
+      "tokens": 11159,
+      "cost": 0.0,
+      "elapsed_s": 66.654
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/ModdableXS/md16/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/ModdableXS/md16/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 17584,
+      "cost": 0.0,
+      "elapsed_s": 123.666
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/ModdableXS/md17/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/ModdableXS/md17/case_data_baseline.json",
+      "decision": "SKIP",
+      "tokens": 15521,
+      "cost": 0.0,
+      "elapsed_s": 146.731
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/ModdableXS/md18/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/ModdableXS/md18/case_data_baseline.json",
+      "decision": "SKIP",
+      "tokens": 18162,
+      "cost": 0.0,
+      "elapsed_s": 105.248
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/ModdableXS/md2/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/ModdableXS/md2/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 12603,
+      "cost": 0.0,
+      "elapsed_s": 49.747
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/ModdableXS/md3/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/ModdableXS/md3/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 15208,
+      "cost": 0.0,
+      "elapsed_s": 97.172
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/ModdableXS/md4/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/ModdableXS/md4/case_data_baseline.json",
+      "decision": "SKIP",
+      "tokens": 11194,
+      "cost": 0.0,
+      "elapsed_s": 96.698
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/ModdableXS/md5/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/ModdableXS/md5/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 14411,
+      "cost": 0.0,
+      "elapsed_s": 109.4
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/ModdableXS/md6-1/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/ModdableXS/md6-1/case_data_baseline.json",
+      "decision": "SKIP",
+      "tokens": 10492,
+      "cost": 0.0,
+      "elapsed_s": 57.478
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/ModdableXS/md6-2/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/ModdableXS/md6-2/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 14949,
+      "cost": 0.0,
+      "elapsed_s": 104.956
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/ModdableXS/md7/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/ModdableXS/md7/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 17281,
+      "cost": 0.0,
+      "elapsed_s": 95.579
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/ModdableXS/md8/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/ModdableXS/md8/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 12254,
+      "cost": 0.0,
+      "elapsed_s": 64.088
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/ModdableXS/md9-1/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/ModdableXS/md9-1/case_data_baseline.json",
+      "decision": "SKIP",
+      "tokens": 13215,
+      "cost": 0.0,
+      "elapsed_s": 66.312
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/ModdableXS/md9-2/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/ModdableXS/md9-2/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 17397,
+      "cost": 0.0,
+      "elapsed_s": 109.026
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/QuickJS/qj1/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/QuickJS/qj1/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 11472,
+      "cost": 0.0,
+      "elapsed_s": 79.744
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/QuickJS/qj2/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/QuickJS/qj2/case_data_baseline.json",
+      "decision": "SKIP",
+      "tokens": 11545,
+      "cost": 0.0,
+      "elapsed_s": 176.712
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/QuickJS/qj3/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/QuickJS/qj3/case_data_baseline.json",
+      "decision": "SKIP",
+      "tokens": 10507,
+      "cost": 0.0,
+      "elapsed_s": 79.827
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/QuickJS/qj4/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/QuickJS/qj4/case_data_baseline.json",
+      "decision": "SKIP",
+      "tokens": 10853,
+      "cost": 0.0,
+      "elapsed_s": 85.013
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/QuickJS/qj5/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/QuickJS/qj5/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 19740,
+      "cost": 0.0,
+      "elapsed_s": 151.057
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/QuickJS/qj6/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/QuickJS/qj6/case_data_baseline.json",
+      "decision": "SKIP",
+      "tokens": 11732,
+      "cost": 0.0,
+      "elapsed_s": 55.604
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/V8/ve1/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/V8/ve1/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 16390,
+      "cost": 0.0,
+      "elapsed_s": 107.668
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/V8/ve2/case_data.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/V8/ve2/case_data_baseline.json",
+      "decision": "REPORT",
+      "tokens": 13301,
+      "cost": 0.0,
+      "elapsed_s": 73.637
+    },
+    {
+      "path": "SOURCE_REPOSITORY/datasets/JEST/generated_diff_findings_json/conversion_summary.json",
+      "out": "SOURCE_REPOSITORY/datasets/JEST/triaged_preprocessed_baseline/conversion_summary_baseline.json",
+      "decision": "SKIP",
+      "tokens": 22024,
+      "cost": 0.0,
+      "elapsed_s": 72.933
+    }
+  ],
+  "errors": [],
+  "elapsed_s": 4084.162383079529
+}

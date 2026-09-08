@@ -1,0 +1,63 @@
+{
+  "session_id": "e74fe59a-1a18-444a-8c19-8593bd497129",
+  "test_id": "3a9386e1e1303b32",
+  "start_time": "2025-10-20T14:51:23.247197",
+  "end_time": "2025-10-20T14:51:39.491419",
+  "final_decision": "UNKNOWN",
+  "final_confidence": 0.0,
+  "final_rationale": "Could not parse decision from response",
+  "steps": [
+    {
+      "timestamp": "2025-10-20T14:51:39.489828",
+      "step_type": "agent_call",
+      "agent_name": "triage_orchestrator",
+      "tool_name": null,
+      "input_data": {
+        "message": "Orchestrator reasoning"
+      },
+      "output_data": {
+        "response": "The issue involves a JavaScript code snippet that executes successfully on V8, SpiderMonkey, and JavaScriptCore, but fails on GraalJS with multiple `SyntaxError` messages. The primary error reported by GraalJS is related to a labeled statement `x:` followed by an immediately invoked function expression (IIFE).\n\n"
+      },
+      "reasoning": "The issue involves a JavaScript code snippet that executes successfully on V8, SpiderMonkey, and JavaScriptCore, but fails on GraalJS with multiple `SyntaxError` messages. The primary error reported by GraalJS is related to a labeled statement `x:` followed by an immediately invoked function expression (IIFE).\n\n",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-20T14:51:39.489985",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "terminal",
+      "input_data": {
+        "code": "x: (function(){})();",
+        "engine_name": "GRAALJS"
+      },
+      "output_data": {
+        "engine": "GRAALJS",
+        "exit_code": 0,
+        "raw_return_code": 0,
+        "signal_num": null,
+        "signal_name": null,
+        "stdout": "",
+        "stderr": ""
+      },
+      "reasoning": "{'engine': 'GRAALJS', 'exit_code': 0, 'raw_return_code': 0, 'signal_num': None, 'signal_name': None, 'stdout': '', 'stderr': ''}",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-20T14:51:39.491280",
+      "step_type": "decision",
+      "agent_name": null,
+      "tool_name": null,
+      "input_data": null,
+      "output_data": null,
+      "reasoning": "Could not parse decision from response",
+      "confidence": 0.0,
+      "duration_ms": null,
+      "error": null
+    }
+  ],
+  "total_duration_ms": 16244.222
+}

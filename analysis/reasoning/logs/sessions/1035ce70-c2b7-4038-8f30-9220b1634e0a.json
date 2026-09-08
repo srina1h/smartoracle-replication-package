@@ -1,0 +1,40 @@
+{
+  "session_id": "1035ce70-c2b7-4038-8f30-9220b1634e0a",
+  "test_id": "0b666b485137df48",
+  "start_time": "2025-10-20T14:51:39.504286",
+  "end_time": "2025-10-20T14:51:56.380740",
+  "final_decision": "UNKNOWN",
+  "final_confidence": 0.0,
+  "final_rationale": "Could not parse decision from response",
+  "steps": [
+    {
+      "timestamp": "2025-10-20T14:51:56.380435",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "transfer_to_agent",
+      "input_data": {
+        "agent_name": "discrepancy_structurer"
+      },
+      "output_data": {
+        "result": null
+      },
+      "reasoning": null,
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-20T14:51:56.380628",
+      "step_type": "decision",
+      "agent_name": null,
+      "tool_name": null,
+      "input_data": null,
+      "output_data": null,
+      "reasoning": "Could not parse decision from response",
+      "confidence": 0.0,
+      "duration_ms": null,
+      "error": null
+    }
+  ],
+  "total_duration_ms": 16876.453999999998
+}

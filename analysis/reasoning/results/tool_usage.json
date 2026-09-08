@@ -1,0 +1,67 @@
+{
+  "tool_counts": {
+    "make_decision": 216,
+    "terminal": 405,
+    "spec": 359
+  },
+  "tool_stats_per_session": {
+    "make_decision": {
+      "total_sessions_using": 216,
+      "avg_per_session": 1.0,
+      "max_per_session": 1
+    },
+    "terminal": {
+      "total_sessions_using": 78,
+      "avg_per_session": 5.1923076923076925,
+      "max_per_session": 24
+    },
+    "spec": {
+      "total_sessions_using": 89,
+      "avg_per_session": 4.033707865168539,
+      "max_per_session": 118
+    }
+  },
+  "total_tool_calls": 980,
+  "unique_tools": 3,
+  "tool_sequences": {
+    "total_sequences": 225,
+    "avg_sequence_length": 4.355555555555555
+  },
+  "common_bigrams": {
+    "terminal -> terminal": 321,
+    "spec -> spec": 262,
+    "spec -> make_decision": 60,
+    "terminal -> make_decision": 60,
+    "spec -> terminal": 33,
+    "terminal -> spec": 19
+  },
+  "common_trigrams": {
+    "terminal -> terminal -> terminal": 245,
+    "spec -> spec -> spec": 219,
+    "terminal -> terminal -> make_decision": 54,
+    "spec -> terminal -> terminal": 30,
+    "spec -> spec -> make_decision": 27,
+    "terminal -> terminal -> spec": 18,
+    "spec -> spec -> terminal": 14,
+    "terminal -> spec -> spec": 9,
+    "terminal -> spec -> terminal": 4,
+    "terminal -> spec -> make_decision": 4,
+    "spec -> terminal -> make_decision": 3
+  },
+  "tool_usage_by_decision": {
+    "SKIP": {
+      "make_decision": 105,
+      "terminal": 130,
+      "spec": 35
+    },
+    "REPORT": {
+      "make_decision": 111,
+      "terminal": 262,
+      "spec": 184
+    },
+    "UNKNOWN": {
+      "spec": 140,
+      "terminal": 13
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "session_id": "8300ac87-6126-436f-a100-7a54cb3d7c45",
+  "test_id": "9e8946b37ccc2565",
+  "start_time": "2025-10-02T14:09:42.921096",
+  "end_time": "2025-10-02T14:09:52.371973",
+  "final_decision": "SKIP",
+  "final_confidence": 1.0,
+  "final_rationale": "The test case uses non-standard, engine-specific functions (`evalInWorker` and `gczeal`). All engines correctly report `ReferenceError` because these functions are not part of the ECMA-262 specification and are not universally available. The divergence in exit codes and specific error messages is a consequence of different engines encountering these non-standard APIs at different points or having different implementations/availability of such functions, not a spec violation.",
+  "steps": [
+    {
+      "timestamp": "2025-10-02T14:09:52.371209",
+      "step_type": "agent_call",
+      "agent_name": "false_positive_critic",
+      "tool_name": null,
+      "input_data": {
+        "request": "Are `evalInWorker` and `gczeal` considered non-standard or engine-specific functions that would lead to a SKIP decision?"
+      },
+      "output_data": {
+        "result": "Yes, `evalInWorker` and `gczeal` are considered non-standard or engine-specific functions. My search of the ECMA-262 specification for both terms yielded no results, indicating they are not part of the standard. Therefore, any findings related to these functions would fall under the \"Host/harness artifacts: non-standard globals/APIs\" pattern and would lead to a **SKIP** decision."
+      },
+      "reasoning": "Yes, `evalInWorker` and `gczeal` are considered non-standard or engine-specific functions. My search of the ECMA-262 specification for both terms yielded no results, indicating they are not part of the standard. Therefore, any findings related to these functions would fall under the \"Host/harness artifacts: non-standard globals/APIs\" pattern and would lead to a **SKIP** decision.",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-02T14:09:52.371736",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "make_decision",
+      "input_data": {
+        "rationale": "The test case uses non-standard, engine-specific functions (`evalInWorker` and `gczeal`). All engines correctly report `ReferenceError` because these functions are not part of the ECMA-262 specification and are not universally available. The divergence in exit codes and specific error messages is a consequence of different engines encountering these non-standard APIs at different points or having different implementations/availability of such functions, not a spec violation.",
+        "decision": "SKIP",
+        "confidence": 1
+      },
+      "output_data": {
+        "decision": "SKIP",
+        "confidence": 1,
+        "rationale": "The test case uses non-standard, engine-specific functions (`evalInWorker` and `gczeal`). All engines correctly report `ReferenceError` because these functions are not part of the ECMA-262 specification and are not universally available. The divergence in exit codes and specific error messages is a consequence of different engines encountering these non-standard APIs at different points or having different implementations/availability of such functions, not a spec violation."
+      },
+      "reasoning": "{'decision': 'SKIP', 'confidence': 1, 'rationale': 'The test case uses non-standard, engine-specific functions (`evalInWorker` and `gczeal`). All engines correctly report `ReferenceError` because these functions are not part of the ECMA-262 specification and are not universally available. The divergence in exit codes and specific error messages is a consequence of different engines encountering these non-standard APIs at different points or having different implementations/availability of such functions, not a spec violation.'}",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-02T14:09:52.371847",
+      "step_type": "decision",
+      "agent_name": null,
+      "tool_name": null,
+      "input_data": null,
+      "output_data": null,
+      "reasoning": "The test case uses non-standard, engine-specific functions (`evalInWorker` and `gczeal`). All engines correctly report `ReferenceError` because these functions are not part of the ECMA-262 specification and are not universally available. The divergence in exit codes and specific error messages is a consequence of different engines encountering these non-standard APIs at different points or having different implementations/availability of such functions, not a spec violation.",
+      "confidence": 1.0,
+      "duration_ms": null,
+      "error": null
+    }
+  ],
+  "total_duration_ms": 9450.877
+}

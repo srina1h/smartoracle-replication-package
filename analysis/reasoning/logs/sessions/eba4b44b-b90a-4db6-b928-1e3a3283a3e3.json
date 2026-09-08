@@ -1,0 +1,24 @@
+{
+  "session_id": "eba4b44b-b90a-4db6-b928-1e3a3283a3e3",
+  "test_id": "32985cb44b63460c",
+  "start_time": "2025-10-02T13:50:33.112281",
+  "end_time": "2025-10-02T13:50:40.069454",
+  "final_decision": "UNKNOWN",
+  "final_confidence": 0.0,
+  "final_rationale": "Could not parse decision from response",
+  "steps": [
+    {
+      "timestamp": "2025-10-02T13:50:40.069283",
+      "step_type": "decision",
+      "agent_name": null,
+      "tool_name": null,
+      "input_data": null,
+      "output_data": null,
+      "reasoning": "Could not parse decision from response",
+      "confidence": 0.0,
+      "duration_ms": null,
+      "error": null
+    }
+  ],
+  "total_duration_ms": 6957.173
+}

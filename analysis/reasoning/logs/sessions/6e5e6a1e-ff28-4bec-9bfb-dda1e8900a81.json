@@ -1,0 +1,60 @@
+{
+  "session_id": "6e5e6a1e-ff28-4bec-9bfb-dda1e8900a81",
+  "test_id": "d90ba23990f41b62",
+  "start_time": "2025-10-26T17:54:20.226089",
+  "end_time": "2025-10-26T17:54:34.036869",
+  "final_decision": "SKIP",
+  "final_confidence": 1.0,
+  "final_rationale": "The `write` function is a host-provided global and not part of the ECMA-262 specification. Differences in host-provided functions are considered false positives and not reportable issues for spec compliance.",
+  "steps": [
+    {
+      "timestamp": "2025-10-26T17:54:34.036331",
+      "step_type": "agent_call",
+      "agent_name": "false_positive_critic",
+      "tool_name": null,
+      "input_data": {
+        "request": "Is `write` a standard ECMA-262 function? Are differences in host-provided functions considered false positives?"
+      },
+      "output_data": {
+        "result": "`write` is not a standard ECMA-262 function. The ECMA-262 specification does not define a global `write` function.\n\nYes, differences in host-provided functions are considered false positives. As per the common non-reportable patterns, \"Host/harness artifacts: non-standard globals/APIs (e.g., gc(), write(), evalInWorker)\" are explicitly listed as non-reportable."
+      },
+      "reasoning": "`write` is not a standard ECMA-262 function. The ECMA-262 specification does not define a global `write` function.\n\nYes, differences in host-provided functions are considered false positives. As per the common non-reportable patterns, \"Host/harness artifacts: non-standard globals/APIs (e.g., gc(), write(), evalInWorker)\" are explicitly listed as non-reportable.",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-26T17:54:34.036552",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "make_decision",
+      "input_data": {
+        "confidence": 1,
+        "rationale": "The `write` function is a host-provided global and not part of the ECMA-262 specification. Differences in host-provided functions are considered false positives and not reportable issues for spec compliance.",
+        "decision": "SKIP"
+      },
+      "output_data": {
+        "decision": "SKIP",
+        "confidence": 1,
+        "rationale": "The `write` function is a host-provided global and not part of the ECMA-262 specification. Differences in host-provided functions are considered false positives and not reportable issues for spec compliance."
+      },
+      "reasoning": "{'decision': 'SKIP', 'confidence': 1, 'rationale': 'The `write` function is a host-provided global and not part of the ECMA-262 specification. Differences in host-provided functions are considered false positives and not reportable issues for spec compliance.'}",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-26T17:54:34.036702",
+      "step_type": "decision",
+      "agent_name": null,
+      "tool_name": null,
+      "input_data": null,
+      "output_data": null,
+      "reasoning": "The `write` function is a host-provided global and not part of the ECMA-262 specification. Differences in host-provided functions are considered false positives and not reportable issues for spec compliance.",
+      "confidence": 1.0,
+      "duration_ms": null,
+      "error": null
+    }
+  ],
+  "total_duration_ms": 13810.779999999999
+}

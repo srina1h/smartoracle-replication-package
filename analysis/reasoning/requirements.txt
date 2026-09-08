@@ -1,0 +1,5 @@
+matplotlib>=3.10.0
+graphviz>=0.21
+numpy>=2.0
+
+

@@ -1,0 +1,7 @@
+google-adk>=0.2
+graphviz>=0.21
+litellm>=1.43
+matplotlib>=3.10
+numpy>=2.0
+python-dotenv>=1.0
+scikit-learn>=1.5

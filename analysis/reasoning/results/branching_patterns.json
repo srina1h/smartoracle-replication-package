@@ -1,0 +1,100 @@
+{
+  "sequence_lengths": {
+    "count": 234,
+    "min": 1,
+    "max": 123,
+    "mean": 8.495726495726496,
+    "median": 6
+  },
+  "step_type_distribution": {
+    "agent_call": 743,
+    "tool_call": 1011,
+    "decision": 234
+  },
+  "common_bigrams": {
+    "tool_call -> tool_call": 656,
+    "agent_call -> agent_call": 413,
+    "agent_call -> tool_call": 305,
+    "tool_call -> decision": 204,
+    "tool_call -> agent_call": 151,
+    "agent_call -> decision": 25
+  },
+  "common_trigrams": {
+    "tool_call -> tool_call -> tool_call": 530,
+    "agent_call -> agent_call -> agent_call": 251,
+    "agent_call -> tool_call -> decision": 177,
+    "agent_call -> agent_call -> tool_call": 155,
+    "tool_call -> tool_call -> agent_call": 100,
+    "tool_call -> agent_call -> tool_call": 99,
+    "agent_call -> tool_call -> tool_call": 89,
+    "agent_call -> tool_call -> agent_call": 39,
+    "tool_call -> agent_call -> agent_call": 34,
+    "tool_call -> tool_call -> decision": 26,
+    "tool_call -> agent_call -> decision": 18,
+    "agent_call -> agent_call -> decision": 7
+  },
+  "common_fourgrams": {
+    "tool_call -> tool_call -> tool_call -> tool_call": 440,
+    "agent_call -> agent_call -> agent_call -> agent_call": 158,
+    "agent_call -> agent_call -> tool_call -> decision": 101,
+    "agent_call -> agent_call -> agent_call -> tool_call": 90,
+    "tool_call -> tool_call -> tool_call -> agent_call": 73,
+    "tool_call -> tool_call -> agent_call -> tool_call": 65,
+    "agent_call -> tool_call -> tool_call -> tool_call": 62,
+    "tool_call -> agent_call -> tool_call -> decision": 61,
+    "agent_call -> agent_call -> tool_call -> tool_call": 40,
+    "tool_call -> tool_call -> agent_call -> agent_call": 26,
+    "agent_call -> tool_call -> agent_call -> tool_call": 24,
+    "tool_call -> agent_call -> tool_call -> tool_call": 22,
+    "agent_call -> tool_call -> tool_call -> agent_call": 18,
+    "tool_call -> tool_call -> tool_call -> decision": 17,
+    "tool_call -> agent_call -> tool_call -> agent_call": 16,
+    "tool_call -> agent_call -> agent_call -> agent_call": 16,
+    "tool_call -> agent_call -> agent_call -> tool_call": 15,
+    "agent_call -> agent_call -> tool_call -> agent_call": 14,
+    "tool_call -> tool_call -> agent_call -> decision": 9,
+    "agent_call -> tool_call -> agent_call -> decision": 9
+  },
+  "common_paths_by_decision": {
+    "SKIP": {
+      "agent_call -> agent_call": 137,
+      "agent_call -> tool_call": 136,
+      "tool_call -> tool_call": 127,
+      "tool_call -> decision": 100,
+      "tool_call -> agent_call": 59,
+      "agent_call -> decision": 7
+    },
+    "REPORT": {
+      "tool_call -> tool_call": 379,
+      "agent_call -> agent_call": 271,
+      "agent_call -> tool_call": 164,
+      "tool_call -> decision": 99,
+      "tool_call -> agent_call": 88,
+      "agent_call -> decision": 15
+    },
+    "UNKNOWN": {
+      "tool_call -> tool_call": 150,
+      "tool_call -> decision": 5,
+      "agent_call -> agent_call": 5,
+      "agent_call -> tool_call": 5,
+      "tool_call -> agent_call": 4,
+      "agent_call -> decision": 3
+    }
+  },
+  "common_prefixes": {
+    "agent_call -> agent_call": 128,
+    "agent_call -> tool_call": 51,
+    "tool_call -> tool_call": 37,
+    "tool_call -> agent_call": 12,
+    "tool_call -> decision": 1
+  },
+  "common_suffixes": {
+    "tool_call -> decision": 204,
+    "agent_call -> decision": 25
+  },
+  "decision_points": {
+    "tool_call": 204,
+    "agent_call": 25
+  },
+  "total_sequences": 234
+}

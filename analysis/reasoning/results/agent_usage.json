@@ -1,0 +1,72 @@
+{
+  "agent_counts": {
+    "discrepancy_structurer": 116,
+    "spec_checker": 117,
+    "false_positive_critic": 120,
+    "triage_orchestrator": 390
+  },
+  "agent_stats_per_session": {
+    "spec_checker": {
+      "total_sessions_using": 113,
+      "avg_per_session": 1.0353982300884956,
+      "max_per_session": 2
+    },
+    "discrepancy_structurer": {
+      "total_sessions_using": 102,
+      "avg_per_session": 1.1372549019607843,
+      "max_per_session": 2
+    },
+    "false_positive_critic": {
+      "total_sessions_using": 119,
+      "avg_per_session": 1.0084033613445378,
+      "max_per_session": 2
+    },
+    "triage_orchestrator": {
+      "total_sessions_using": 145,
+      "avg_per_session": 2.689655172413793,
+      "max_per_session": 116
+    }
+  },
+  "total_agent_calls": 743,
+  "unique_agents": 4,
+  "agent_sequences": {
+    "total_sequences": 226,
+    "avg_sequence_length": 3.2876106194690267
+  },
+  "common_bigrams": {
+    "triage_orchestrator -> triage_orchestrator": 182,
+    "discrepancy_structurer -> spec_checker": 66,
+    "false_positive_critic -> triage_orchestrator": 53,
+    "spec_checker -> false_positive_critic": 42,
+    "spec_checker -> triage_orchestrator": 41,
+    "triage_orchestrator -> false_positive_critic": 37,
+    "triage_orchestrator -> spec_checker": 26,
+    "triage_orchestrator -> discrepancy_structurer": 15,
+    "discrepancy_structurer -> triage_orchestrator": 15,
+    "discrepancy_structurer -> false_positive_critic": 14,
+    "discrepancy_structurer -> discrepancy_structurer": 12,
+    "false_positive_critic -> spec_checker": 9,
+    "spec_checker -> spec_checker": 3,
+    "spec_checker -> discrepancy_structurer": 1,
+    "false_positive_critic -> discrepancy_structurer": 1
+  },
+  "agent_usage_by_decision": {
+    "SKIP": {
+      "discrepancy_structurer": 39,
+      "spec_checker": 37,
+      "false_positive_critic": 80,
+      "triage_orchestrator": 124
+    },
+    "REPORT": {
+      "false_positive_critic": 40,
+      "triage_orchestrator": 255,
+      "spec_checker": 79,
+      "discrepancy_structurer": 76
+    },
+    "UNKNOWN": {
+      "triage_orchestrator": 11,
+      "spec_checker": 1,
+      "discrepancy_structurer": 1
+    }
+  }
+}

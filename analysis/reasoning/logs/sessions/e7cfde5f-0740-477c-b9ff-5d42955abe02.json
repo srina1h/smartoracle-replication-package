@@ -1,0 +1,76 @@
+{
+  "session_id": "e7cfde5f-0740-477c-b9ff-5d42955abe02",
+  "test_id": "b784d566aee2dce1",
+  "start_time": "2025-10-19T19:21:17.901549",
+  "end_time": "2025-10-19T19:22:27.549127",
+  "final_decision": "REPORT",
+  "final_confidence": 0.9,
+  "final_rationale": "V8 correctly identifies an invalid asm.js module export where the returned single function (`Module` itself) is not an asm.js function, as per the asm.js specification. Other engines (Spidermonkey, JavaScriptCore, GraalJS) fail to report this violation, indicating a divergence in asm.js validation.",
+  "steps": [
+    {
+      "timestamp": "2025-10-19T19:22:27.548658",
+      "step_type": "agent_call",
+      "agent_name": "spec_checker",
+      "tool_name": null,
+      "input_data": {
+        "request": "Check asm.js specification for module export rules, specifically when a non-asm.js function is exported as the single function export."
+      },
+      "output_data": {
+        "result": ""
+      },
+      "reasoning": "",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-19T19:22:27.548805",
+      "step_type": "agent_call",
+      "agent_name": "false_positive_critic",
+      "tool_name": null,
+      "input_data": {
+        "request": "Is a discrepancy in asm.js validation, specifically regarding single function exports, a known false positive or a pattern to skip? V8 reports 'Invalid asm.js: Single function export must be a function' while other engines do not error."
+      },
+      "output_data": {
+        "result": ""
+      },
+      "reasoning": "",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-19T19:22:27.548920",
+      "step_type": "tool_call",
+      "agent_name": null,
+      "tool_name": "make_decision",
+      "input_data": {
+        "rationale": "V8 correctly identifies an invalid asm.js module export where the returned single function (`Module` itself) is not an asm.js function, as per the asm.js specification. Other engines (Spidermonkey, JavaScriptCore, GraalJS) fail to report this violation, indicating a divergence in asm.js validation.",
+        "confidence": 0.9,
+        "decision": "REPORT"
+      },
+      "output_data": {
+        "decision": "REPORT",
+        "confidence": 0.9,
+        "rationale": "V8 correctly identifies an invalid asm.js module export where the returned single function (`Module` itself) is not an asm.js function, as per the asm.js specification. Other engines (Spidermonkey, JavaScriptCore, GraalJS) fail to report this violation, indicating a divergence in asm.js validation."
+      },
+      "reasoning": "{'decision': 'REPORT', 'confidence': 0.9, 'rationale': 'V8 correctly identifies an invalid asm.js module export where the returned single function (`Module` itself) is not an asm.js function, as per the asm.js specification. Other engines (Spidermonkey, JavaScriptCore, GraalJS) fail to report this violation, indicating a divergence in asm.js validation.'}",
+      "confidence": null,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "timestamp": "2025-10-19T19:22:27.549013",
+      "step_type": "decision",
+      "agent_name": null,
+      "tool_name": null,
+      "input_data": null,
+      "output_data": null,
+      "reasoning": "V8 correctly identifies an invalid asm.js module export where the returned single function (`Module` itself) is not an asm.js function, as per the asm.js specification. Other engines (Spidermonkey, JavaScriptCore, GraalJS) fail to report this violation, indicating a divergence in asm.js validation.",
+      "confidence": 0.9,
+      "duration_ms": null,
+      "error": null
+    }
+  ],
+  "total_duration_ms": 69647.578
+}
